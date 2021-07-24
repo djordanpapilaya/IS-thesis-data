@@ -1,0 +1,792 @@
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 16,
+	  "political_progressive": 10,
+	  "political_conservative": 3,
+	  "political_center": 3,
+	  "form_simple": 8,
+	  "form_medium": 6,
+	  "form_complex": 2,
+	  "content_simple": 11,
+	  "content_medium": 3,
+	  "content_complex": 2,
+	  "type_text": 1,
+	  "type_video": 14,
+	  "type_audio": 1,
+	  "total_time": "02:03:59",
+	  "average_time": "00:07:44"
+	},
+	"paths": {
+	  "resource": "5-24-37-38-40-41-45-125-42-34-43-95-95-46-109-32-",
+	  "political": "P-M-P-P-M-M-C-P-C-P-C-P-P-P-P-P-",
+	  "complexity": "S-M-S-S-S-S-S-C-S-S-S-M-M-S-C-S-",
+	  "type": "V-V-V-V-V-T-V-V-V-V-V-V-V-V-A-V-",
+	  "political_relative": [
+		{
+		  "P": 0
+		},
+		{
+		  "P": 0.0625
+		},
+		{
+		  "M": 0.0625
+		},
+		{
+		  "M": 0.125
+		},
+		{
+		  "P": 0.125
+		},
+		{
+		  "P": 0.25
+		},
+		{
+		  "M": 0.25
+		},
+		{
+		  "M": 0.375
+		},
+		{
+		  "C": 0.375
+		},
+		{
+		  "C": 0.4375
+		},
+		{
+		  "P": 0.4375
+		},
+		{
+		  "P": 0.5
+		},
+		{
+		  "C": 0.5
+		},
+		{
+		  "C": 0.5625
+		},
+		{
+		  "P": 0.5625
+		},
+		{
+		  "P": 0.625
+		},
+		{
+		  "C": 0.625
+		},
+		{
+		  "C": 0.6875
+		},
+		{
+		  "P": 0.6875
+		},
+		{
+		  "P": 1
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "S": 0
+		},
+		{
+		  "S": 0.0625
+		},
+		{
+		  "M": 0.0625
+		},
+		{
+		  "M": 0.125
+		},
+		{
+		  "S": 0.125
+		},
+		{
+		  "S": 0.4375
+		},
+		{
+		  "C": 0.4375
+		},
+		{
+		  "C": 0.5
+		},
+		{
+		  "S": 0.5
+		},
+		{
+		  "S": 0.6875
+		},
+		{
+		  "M": 0.6875
+		},
+		{
+		  "M": 0.8125
+		},
+		{
+		  "S": 0.8125
+		},
+		{
+		  "S": 0.875
+		},
+		{
+		  "C": 0.875
+		},
+		{
+		  "C": 0.9375
+		},
+		{
+		  "S": 0.9375
+		},
+		{
+		  "S": 1
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "V": 0
+		},
+		{
+		  "V": 0.3125
+		},
+		{
+		  "T": 0.3125
+		},
+		{
+		  "T": 0.375
+		},
+		{
+		  "V": 0.375
+		},
+		{
+		  "V": 0.875
+		},
+		{
+		  "A": 0.875
+		},
+		{
+		  "A": 0.9375
+		},
+		{
+		  "V": 0.9375
+		},
+		{
+		  "V": 1
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": "00:26:52",
+	  "max_audio": "00:26:52",
+	  "avg_audio": "00:26:52",
+	  "min_video": "00:00:06",
+	  "max_video": "00:15:16",
+	  "avg_video": "00:06:09",
+	  "min_text": "00:10:56",
+	  "max_text": "00:10:56",
+	  "avg_text": "00:10:56"
+	},
+	"numb_sessions": 8,
+	"watched": [
+	  {
+		"id": 5,
+		"time": "00:06:27",
+		"title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		"copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 24,
+		"time": "00:02:39",
+		"title": "Climate Change: What Happens If The World Warms Up By 2°C?",
+		"copy": "2 min (skynews) animation about the possible effects of a temperature increase of 2 degrees celsius",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 37,
+		"time": "00:03:48",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 38,
+		"time": "00:04:37",
+		"title": "Greta Thunberg to world leaders: 'How dare you? You have stolen my dreams and my childhood'",
+		"copy": "4 min speech of greta thunberg at 2019 UN climate summit",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 40,
+		"time": "00:03:34",
+		"title": "Why Egypt's lifeline is drying up | Nile Conflict",
+		"copy": "8 min video report on Egypt and how the Nile is drying up, causing problems",
+		"type": "video",
+		"political": "center",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 41,
+		"time": "00:10:56",
+		"title": "The basics of Global Warming",
+		"copy": "The Sun serves as the primary energy source for Earth’s climate. Some of the incoming sunlight is reflected directly back into space, especially by bconservative surfaces such as ice and clouds, and the rest is absorbed by the surface and the atmosphere.",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 45,
+		"time": "00:04:58",
+		"title": "Climate Change: What Do Scientists Say?",
+		"copy": "5 min (PragerU) video of a climate skeptic scientist giving his views on the debate of climate change",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 125,
+		"time": "00:10:02",
+		"title": "Why Meat is the Best Worst Thing in the World ",
+		"copy": "8 min animation on why meat is not an effective way to feed humans",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Simple"
+	  },
+	  {
+		"id": 42,
+		"time": "00:06:51",
+		"title": "What Greta Thunberg does not understand about climate change | Jordan Peterson",
+		"copy": "7 min speech in reaction to speech of greta thunberg by jordan peterson",
+		"type": "video",
+		"political": "conservative",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 34,
+		"time": "00:04:26",
+		"title": "Vietnam: Climate change threatens rice production",
+		"copy": "4 min (UN) report on the effects of climate change on rice production in Vietnam farmlands",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 43,
+		"time": "00:03:16",
+		"title": "Do 97% of scientists actually agree on climate change?",
+		"copy": "3 min (OAN) interview with climate change skeptics, arguing that not all scientists argee and that consensus may not be correct",
+		"type": "video",
+		"political": "conservative",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 95,
+		"time": "00:00:06",
+		"title": "How Africa is affected by climate change | DW News",
+		"copy": "12 min (DW) report on the impact of climate change on the african content, focussing on affected peoples",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact/belief",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 95,
+		"time": "00:14:05",
+		"title": "How Africa is affected by climate change | DW News",
+		"copy": "12 min (DW) report on the impact of climate change on the african content, focussing on affected peoples",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact/belief",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 46,
+		"time": "00:06:06",
+		"title": "Population growth and climate change explained by Hans Rosling",
+		"copy": "3 min instruction of how population and carbon emissions are distributed across countries",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 109,
+		"time": "00:26:52",
+		"title": "Hot Take: Yes, It's Still Time to Talk About Climate",
+		"copy": "Amid nationwide Black Lives Matter protests, some climate activists have been saying \"now's not the time to talk about climate.\" In this episode we talk about how justice is justice, climate and racial justice are all the same thing, they can't be separated.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "mix",
+		"content": "Complex",
+		"form": "Medium"
+	  },
+	  {
+		"id": 32,
+		"time": "00:15:16",
+		"title": "The beautiful future of solar power | Marjan van Aubel",
+		"copy": "8 min (TED) talk on design possibilities for solar cells",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 36,
+	  "userId": 17,
+	  "total_time": "1",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "",
+		"political": "",
+		"complexity": "",
+		"type": ""
+	  },
+	  "stats": {
+		"numb_of_sources": 0,
+		"political_progressive": 0,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 0,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 0,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": 0,
+		"average_time": 0
+	  },
+	  "watched": []
+	},
+	{
+	  "id": 37,
+	  "userId": 17,
+	  "total_time": "1",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "",
+		"political": "",
+		"complexity": "",
+		"type": ""
+	  },
+	  "stats": {
+		"numb_of_sources": 0,
+		"political_progressive": 0,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 0,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 0,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": 0,
+		"average_time": 0
+	  },
+	  "watched": []
+	},
+	{
+	  "id": 61,
+	  "userId": 17,
+	  "total_time": "32",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "5-24-37-38-40-",
+		"political": "P-M-P-P-M-",
+		"complexity": "S-M-S-S-S-",
+		"type": "V-V-V-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 5,
+		"political_progressive": 3,
+		"political_conservative": 0,
+		"political_center": 2,
+		"form_simple": 3,
+		"form_medium": 1,
+		"form_complex": 1,
+		"content_simple": 4,
+		"content_medium": 1,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 5,
+		"type_audio": 0,
+		"total_time": "00:21:05",
+		"average_time": "00:04:13"
+	  },
+	  "watched": [
+		{
+		  "id": 5,
+		  "time": "00:15:16",
+		  "title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		  "copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 24,
+		  "time": "00:15:16",
+		  "title": "Climate Change: What Happens If The World Warms Up By 2°C?",
+		  "copy": "2 min (skynews) animation about the possible effects of a temperature increase of 2 degrees celsius",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 37,
+		  "time": "00:15:16",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 38,
+		  "time": "00:15:16",
+		  "title": "Greta Thunberg to world leaders: 'How dare you? You have stolen my dreams and my childhood'",
+		  "copy": "4 min speech of greta thunberg at 2019 UN climate summit",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 40,
+		  "time": "00:15:16",
+		  "title": "Why Egypt's lifeline is drying up | Nile Conflict",
+		  "copy": "8 min video report on Egypt and how the Nile is drying up, causing problems",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		}
+	  ]
+	},
+	{
+	  "id": 65,
+	  "userId": 17,
+	  "total_time": "28",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "41-",
+		"political": "M-",
+		"complexity": "S-",
+		"type": "T-"
+	  },
+	  "stats": {
+		"numb_of_sources": 1,
+		"political_progressive": 0,
+		"political_conservative": 0,
+		"political_center": 1,
+		"form_simple": 0,
+		"form_medium": 1,
+		"form_complex": 0,
+		"content_simple": 1,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 1,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": "00:10:56",
+		"average_time": "00:10:56"
+	  },
+	  "watched": [
+		{
+		  "id": 41,
+		  "time": "00:15:16",
+		  "title": "The basics of Global Warming",
+		  "copy": "The Sun serves as the primary energy source for Earth’s climate. Some of the incoming sunlight is reflected directly back into space, especially by bconservative surfaces such as ice and clouds, and the rest is absorbed by the surface and the atmosphere.",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		}
+	  ]
+	},
+	{
+	  "id": 67,
+	  "userId": 17,
+	  "total_time": "18",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "45-125-",
+		"political": "C-P-",
+		"complexity": "S-C-",
+		"type": "V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 2,
+		"political_progressive": 1,
+		"political_conservative": 1,
+		"political_center": 0,
+		"form_simple": 2,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 1,
+		"content_medium": 0,
+		"content_complex": 1,
+		"type_text": 0,
+		"type_video": 2,
+		"type_audio": 0,
+		"total_time": "00:15:00",
+		"average_time": "00:07:30"
+	  },
+	  "watched": [
+		{
+		  "id": 45,
+		  "time": "00:15:16",
+		  "title": "Climate Change: What Do Scientists Say?",
+		  "copy": "5 min (PragerU) video of a climate skeptic scientist giving his views on the debate of climate change",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 125,
+		  "time": "00:15:16",
+		  "title": "Why Meat is the Best Worst Thing in the World ",
+		  "copy": "8 min animation on why meat is not an effective way to feed humans",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Simple"
+		}
+	  ]
+	},
+	{
+	  "id": 68,
+	  "userId": 17,
+	  "total_time": "18",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "42-34-",
+		"political": "C-P-",
+		"complexity": "S-S-",
+		"type": "V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 2,
+		"political_progressive": 1,
+		"political_conservative": 1,
+		"political_center": 0,
+		"form_simple": 0,
+		"form_medium": 1,
+		"form_complex": 1,
+		"content_simple": 2,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 2,
+		"type_audio": 0,
+		"total_time": "00:11:17",
+		"average_time": "00:05:38"
+	  },
+	  "watched": [
+		{
+		  "id": 42,
+		  "time": "00:15:16",
+		  "title": "What Greta Thunberg does not understand about climate change | Jordan Peterson",
+		  "copy": "7 min speech in reaction to speech of greta thunberg by jordan peterson",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 34,
+		  "time": "00:15:16",
+		  "title": "Vietnam: Climate change threatens rice production",
+		  "copy": "4 min (UN) report on the effects of climate change on rice production in Vietnam farmlands",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		}
+	  ]
+	},
+	{
+	  "id": 70,
+	  "userId": 17,
+	  "total_time": "7",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "43-95-",
+		"political": "C-P-",
+		"complexity": "S-M-",
+		"type": "V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 2,
+		"political_progressive": 1,
+		"political_conservative": 1,
+		"political_center": 0,
+		"form_simple": 1,
+		"form_medium": 1,
+		"form_complex": 0,
+		"content_simple": 1,
+		"content_medium": 1,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 2,
+		"type_audio": 0,
+		"total_time": "00:03:22",
+		"average_time": "00:01:41"
+	  },
+	  "watched": [
+		{
+		  "id": 43,
+		  "time": "00:15:16",
+		  "title": "Do 97% of scientists actually agree on climate change?",
+		  "copy": "3 min (OAN) interview with climate change skeptics, arguing that not all scientists argee and that consensus may not be correct",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 95,
+		  "time": "00:15:16",
+		  "title": "How Africa is affected by climate change | DW News",
+		  "copy": "12 min (DW) report on the impact of climate change on the african content, focussing on affected peoples",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact/belief",
+		  "content": "Medium",
+		  "form": "Simple"
+		}
+	  ]
+	},
+	{
+	  "id": 71,
+	  "userId": 17,
+	  "total_time": "64",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "95-46-109-32-",
+		"political": "P-P-P-P-",
+		"complexity": "M-S-C-S-",
+		"type": "V-V-A-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 4,
+		"political_progressive": 4,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 2,
+		"form_medium": 2,
+		"form_complex": 0,
+		"content_simple": 2,
+		"content_medium": 1,
+		"content_complex": 1,
+		"type_text": 0,
+		"type_video": 3,
+		"type_audio": 1,
+		"total_time": "01:02:19",
+		"average_time": "00:15:34"
+	  },
+	  "watched": [
+		{
+		  "id": 95,
+		  "time": "00:15:16",
+		  "title": "How Africa is affected by climate change | DW News",
+		  "copy": "12 min (DW) report on the impact of climate change on the african content, focussing on affected peoples",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact/belief",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 46,
+		  "time": "00:15:16",
+		  "title": "Population growth and climate change explained by Hans Rosling",
+		  "copy": "3 min instruction of how population and carbon emissions are distributed across countries",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 109,
+		  "time": "00:15:16",
+		  "title": "Hot Take: Yes, It's Still Time to Talk About Climate",
+		  "copy": "Amid nationwide Black Lives Matter protests, some climate activists have been saying \"now's not the time to talk about climate.\" In this episode we talk about how justice is justice, climate and racial justice are all the same thing, they can't be separated.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "mix",
+		  "content": "Complex",
+		  "form": "Medium"
+		},
+		{
+		  "id": 32,
+		  "time": "00:15:16",
+		  "title": "The beautiful future of solar power | Marjan van Aubel",
+		  "copy": "8 min (TED) talk on design possibilities for solar cells",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		}
+	  ]
+	}
+  ]
+}
+{"mode":"full","isActive":false}

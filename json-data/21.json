@@ -1,0 +1,774 @@
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 23,
+	  "political_progressive": 16,
+	  "political_conservative": 4,
+	  "political_center": 3,
+	  "form_simple": 5,
+	  "form_medium": 8,
+	  "form_complex": 10,
+	  "content_simple": 16,
+	  "content_medium": 5,
+	  "content_complex": 2,
+	  "type_text": 5,
+	  "type_video": 15,
+	  "type_audio": 3,
+	  "total_time": "00:57:45",
+	  "average_time": "00:02:30"
+	},
+	"paths": {
+	  "resource": "3-1-10-13-25-27-34-34-35-37-37-37-37-37-49-58-73-84-94-52-98-124-126-",
+	  "political": "P-P-M-C-M-C-P-P-P-P-P-P-P-P-P-C-C-M-P-P-P-P-P-",
+	  "complexity": "S-S-S-S-M-S-S-S-S-S-S-S-S-S-S-S-M-M-M-S-M-C-C-",
+	  "type": "T-T-T-T-V-A-V-V-A-V-V-V-V-V-V-A-V-T-V-V-V-V-V-",
+	  "political_relative": [
+		{
+		  "P": 0
+		},
+		{
+		  "P": 0.08695652173913043
+		},
+		{
+		  "M": 0.08695652173913043
+		},
+		{
+		  "M": 0.13043478260869565
+		},
+		{
+		  "C": 0.13043478260869565
+		},
+		{
+		  "C": 0.17391304347826086
+		},
+		{
+		  "M": 0.17391304347826086
+		},
+		{
+		  "M": 0.21739130434782608
+		},
+		{
+		  "C": 0.21739130434782608
+		},
+		{
+		  "C": 0.2608695652173913
+		},
+		{
+		  "P": 0.2608695652173913
+		},
+		{
+		  "P": 0.6521739130434783
+		},
+		{
+		  "C": 0.6521739130434783
+		},
+		{
+		  "C": 0.7391304347826086
+		},
+		{
+		  "M": 0.7391304347826086
+		},
+		{
+		  "M": 0.7826086956521738
+		},
+		{
+		  "P": 0.7826086956521738
+		},
+		{
+		  "P": 0.9999999999999999
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "S": 0
+		},
+		{
+		  "S": 0.17391304347826086
+		},
+		{
+		  "M": 0.17391304347826086
+		},
+		{
+		  "M": 0.21739130434782608
+		},
+		{
+		  "S": 0.21739130434782608
+		},
+		{
+		  "S": 0.6956521739130435
+		},
+		{
+		  "M": 0.6956521739130435
+		},
+		{
+		  "M": 0.8260869565217391
+		},
+		{
+		  "S": 0.8260869565217391
+		},
+		{
+		  "S": 0.8695652173913043
+		},
+		{
+		  "M": 0.8695652173913043
+		},
+		{
+		  "M": 0.9130434782608695
+		},
+		{
+		  "C": 0.9130434782608695
+		},
+		{
+		  "C": 1
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "T": 0
+		},
+		{
+		  "T": 0.17391304347826086
+		},
+		{
+		  "V": 0.17391304347826086
+		},
+		{
+		  "V": 0.21739130434782608
+		},
+		{
+		  "A": 0.21739130434782608
+		},
+		{
+		  "A": 0.2608695652173913
+		},
+		{
+		  "V": 0.2608695652173913
+		},
+		{
+		  "V": 0.34782608695652173
+		},
+		{
+		  "A": 0.34782608695652173
+		},
+		{
+		  "A": 0.3913043478260869
+		},
+		{
+		  "V": 0.3913043478260869
+		},
+		{
+		  "V": 0.6521739130434783
+		},
+		{
+		  "A": 0.6521739130434783
+		},
+		{
+		  "A": 0.6956521739130435
+		},
+		{
+		  "V": 0.6956521739130435
+		},
+		{
+		  "V": 0.7391304347826086
+		},
+		{
+		  "T": 0.7391304347826086
+		},
+		{
+		  "T": 0.7826086956521738
+		},
+		{
+		  "V": 0.7826086956521738
+		},
+		{
+		  "V": 0.9999999999999999
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": "00:00:04",
+	  "max_audio": "00:00:44",
+	  "avg_audio": "00:00:17",
+	  "min_video": "00:00:04",
+	  "max_video": "00:07:31",
+	  "avg_video": "00:03:30",
+	  "min_text": "00:00:04",
+	  "max_text": "00:02:31",
+	  "avg_text": "00:00:51"
+	},
+	"numb_sessions": 2,
+	"watched": [
+	  {
+		"id": 3,
+		"time": "00:02:31",
+		"title": "The world wasted nearly 1 billion metric tons of food in 2019",
+		"copy": "The world wasted about 931 million metric tons of food in 2019 — an average of 121 kilograms per person. That’s about 17 percent of all food that was available to consumers that year, a new United Nations report estimates.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 1,
+		"time": "00:01:12",
+		"title": "Climate Change Will Cost Us Even More Than We Think",
+		"copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 10,
+		"time": "00:00:07",
+		"title": "NASA: Global Warming",
+		"copy": "Throughout its long history, Earth has warmed and cooled time and again. Climate has changed when the planet received more or less sunlight due to subtle shifts in its orbit, as the atmosphere or surface changed, or when the Sun’s energy varied. But in the past century, another force has started to influence Earth’s climate: humanity.",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 13,
+		"time": "00:00:23",
+		"title": "Global warming is a problem, but so are climate doomsayers",
+		"copy": "OPINION. Bjorn Lomborg, a visiting professor at the Copenhagen Business School. Most people on the planet wake up each day thinking that things are getting worse. It is little wonder, given what they routinely read in the newspaper or see on television. But this gloomy mood is a problem, because it feeds into scare stories about how climate change will end in Armageddon.",
+		"type": "text",
+		"political": "conservative",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 25,
+		"time": "00:05:51",
+		"title": "DON'T PANIC — Hans Rosling showing the facts about population",
+		"copy": "58 min lecture by hans rosling about the distribution of population and population growth",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 27,
+		"time": "00:00:44",
+		"title": "Triggered - CNN's Climate Propaganda Night",
+		"copy": "Last night was CNN's climate propaganda night. The top 10 Democratic candidates headed into an echo chamber to discuss their radical climate change policies. Matt and Storm discuss.",
+		"type": "audio",
+		"political": "conservative",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 34,
+		"time": "00:04:11",
+		"title": "Vietnam: Climate change threatens rice production",
+		"copy": "4 min (UN) report on the effects of climate change on rice production in Vietnam farmlands",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 34,
+		"time": "00:04:16",
+		"title": "Vietnam: Climate change threatens rice production",
+		"copy": "4 min (UN) report on the effects of climate change on rice production in Vietnam farmlands",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 35,
+		"time": "00:00:05",
+		"title": "Living Planet: Unexpected ideas",
+		"copy": "On this week's show, Spain grapples with the environmental impact of the renewable energy boom. Young entrepreneurs in Kenya discover how a tiny critter can make a big impact on food waste. And Mexico takes the lead in kicking the herbicide glyphosate to the curb for the sake of its native bees.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 37,
+		"time": "00:01:11",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 37,
+		"time": "00:01:12",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 37,
+		"time": "00:01:14",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 37,
+		"time": "00:01:13",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 37,
+		"time": "00:00:04",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 49,
+		"time": "00:07:31",
+		"title": "How to Save Our Planet",
+		"copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 58,
+		"time": "00:00:04",
+		"title": "Exposing Washington: Man-made climate change is a hoax",
+		"copy": "We will discuss how CNN is pushing the climate change hoax on the American people.",
+		"type": "audio",
+		"political": "conservative",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 73,
+		"time": "00:05:06",
+		"title": "Can Climate Models Predict Climate Change?",
+		"copy": "5 min animation on why climate change models fail to work",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Complex"
+	  },
+	  {
+		"id": 84,
+		"time": "00:00:04",
+		"title": "Presumed Effects of “Fake News” on the Global Warming Discussion in a Cross-Cultural Context",
+		"copy": "“Fake news” on global warming is widely disseminated via social and partisan media. Scientists worry about its effect, because fake news may hurt public support and change policy on climate change. The current study tested the roles of cultural constructs (individualism, collectivism, and uncertainty-avoidance) in predicting the presumed effect of fake news on global warming",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Complex"
+	  },
+	  {
+		"id": 94,
+		"time": "00:02:34",
+		"title": "Climate 101: Deforestation | National Geographic",
+		"copy": "3 min (NatGeo) animation on large scale deforestation across the globe, causes and effects",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 52,
+		"time": "00:05:01",
+		"title": "Leonardo DiCaprio (UN Messenger of Peace) at the opening of Climate Summit 2014",
+		"copy": "4 min (UN) speech by Leonardo DiCaprio arguing that the climate crisis is urgent and must be adressed",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 98,
+		"time": "00:04:46",
+		"title": "The state of the climate crisis | Climate Action Tracker",
+		"copy": "5 min (TED) animated video on predicted temperature rise and the actions countries take to reduce their emissions",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Complex"
+	  },
+	  {
+		"id": 124,
+		"time": "00:06:29",
+		"title": "How could veganism change the world? | The Economist",
+		"copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Medium"
+	  },
+	  {
+		"id": 126,
+		"time": "00:01:56",
+		"title": "Climate Change: What Happens If The World Warms Up By 4°C?",
+		"copy": "2 min (skynews) animation about the possible effects of a temperature rise of 4 degrees celsius",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact/belief",
+		"content": "Complex",
+		"form": "Simple"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 51,
+	  "userId": 21,
+	  "total_time": "35",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "3-1-10-13-25-27-34-34-35-37-37-37-37-37-49-58-",
+		"political": "P-P-M-C-M-C-P-P-P-P-P-P-P-P-P-C-",
+		"complexity": "S-S-S-S-M-S-S-S-S-S-S-S-S-S-S-S-",
+		"type": "T-T-T-T-V-A-V-V-A-V-V-V-V-V-V-A-"
+	  },
+	  "stats": {
+		"numb_of_sources": 16,
+		"political_progressive": 11,
+		"political_conservative": 3,
+		"political_center": 2,
+		"form_simple": 3,
+		"form_medium": 7,
+		"form_complex": 6,
+		"content_simple": 15,
+		"content_medium": 1,
+		"content_complex": 0,
+		"type_text": 4,
+		"type_video": 9,
+		"type_audio": 3,
+		"total_time": "00:31:49",
+		"average_time": "00:01:59"
+	  },
+	  "watched": [
+		{
+		  "id": 3,
+		  "time": "00:01:56",
+		  "title": "The world wasted nearly 1 billion metric tons of food in 2019",
+		  "copy": "The world wasted about 931 million metric tons of food in 2019 — an average of 121 kilograms per person. That’s about 17 percent of all food that was available to consumers that year, a new United Nations report estimates.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 1,
+		  "time": "00:01:56",
+		  "title": "Climate Change Will Cost Us Even More Than We Think",
+		  "copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 10,
+		  "time": "00:01:56",
+		  "title": "NASA: Global Warming",
+		  "copy": "Throughout its long history, Earth has warmed and cooled time and again. Climate has changed when the planet received more or less sunlight due to subtle shifts in its orbit, as the atmosphere or surface changed, or when the Sun’s energy varied. But in the past century, another force has started to influence Earth’s climate: humanity.",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 13,
+		  "time": "00:01:56",
+		  "title": "Global warming is a problem, but so are climate doomsayers",
+		  "copy": "OPINION. Bjorn Lomborg, a visiting professor at the Copenhagen Business School. Most people on the planet wake up each day thinking that things are getting worse. It is little wonder, given what they routinely read in the newspaper or see on television. But this gloomy mood is a problem, because it feeds into scare stories about how climate change will end in Armageddon.",
+		  "type": "text",
+		  "political": "conservative",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 25,
+		  "time": "00:01:56",
+		  "title": "DON'T PANIC — Hans Rosling showing the facts about population",
+		  "copy": "58 min lecture by hans rosling about the distribution of population and population growth",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 27,
+		  "time": "00:01:56",
+		  "title": "Triggered - CNN's Climate Propaganda Night",
+		  "copy": "Last night was CNN's climate propaganda night. The top 10 Democratic candidates headed into an echo chamber to discuss their radical climate change policies. Matt and Storm discuss.",
+		  "type": "audio",
+		  "political": "conservative",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 34,
+		  "time": "00:01:56",
+		  "title": "Vietnam: Climate change threatens rice production",
+		  "copy": "4 min (UN) report on the effects of climate change on rice production in Vietnam farmlands",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 34,
+		  "time": "00:01:56",
+		  "title": "Vietnam: Climate change threatens rice production",
+		  "copy": "4 min (UN) report on the effects of climate change on rice production in Vietnam farmlands",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 35,
+		  "time": "00:01:56",
+		  "title": "Living Planet: Unexpected ideas",
+		  "copy": "On this week's show, Spain grapples with the environmental impact of the renewable energy boom. Young entrepreneurs in Kenya discover how a tiny critter can make a big impact on food waste. And Mexico takes the lead in kicking the herbicide glyphosate to the curb for the sake of its native bees.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 37,
+		  "time": "00:01:56",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 37,
+		  "time": "00:01:56",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 37,
+		  "time": "00:01:56",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 37,
+		  "time": "00:01:56",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 37,
+		  "time": "00:01:56",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 49,
+		  "time": "00:01:56",
+		  "title": "How to Save Our Planet",
+		  "copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 58,
+		  "time": "00:01:56",
+		  "title": "Exposing Washington: Man-made climate change is a hoax",
+		  "copy": "We will discuss how CNN is pushing the climate change hoax on the American people.",
+		  "type": "audio",
+		  "political": "conservative",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Medium"
+		}
+	  ]
+	},
+	{
+	  "id": 54,
+	  "userId": 21,
+	  "total_time": "35",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "73-84-94-52-98-124-126-",
+		"political": "C-M-P-P-P-P-P-",
+		"complexity": "M-M-M-S-M-C-C-",
+		"type": "V-T-V-V-V-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 7,
+		"political_progressive": 5,
+		"political_conservative": 1,
+		"political_center": 1,
+		"form_simple": 2,
+		"form_medium": 1,
+		"form_complex": 4,
+		"content_simple": 1,
+		"content_medium": 4,
+		"content_complex": 2,
+		"type_text": 1,
+		"type_video": 6,
+		"type_audio": 0,
+		"total_time": "00:25:56",
+		"average_time": "00:03:42"
+	  },
+	  "watched": [
+		{
+		  "id": 73,
+		  "time": "00:01:56",
+		  "title": "Can Climate Models Predict Climate Change?",
+		  "copy": "5 min animation on why climate change models fail to work",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Complex"
+		},
+		{
+		  "id": 84,
+		  "time": "00:01:56",
+		  "title": "Presumed Effects of “Fake News” on the Global Warming Discussion in a Cross-Cultural Context",
+		  "copy": "“Fake news” on global warming is widely disseminated via social and partisan media. Scientists worry about its effect, because fake news may hurt public support and change policy on climate change. The current study tested the roles of cultural constructs (individualism, collectivism, and uncertainty-avoidance) in predicting the presumed effect of fake news on global warming",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Complex"
+		},
+		{
+		  "id": 94,
+		  "time": "00:01:56",
+		  "title": "Climate 101: Deforestation | National Geographic",
+		  "copy": "3 min (NatGeo) animation on large scale deforestation across the globe, causes and effects",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 52,
+		  "time": "00:01:56",
+		  "title": "Leonardo DiCaprio (UN Messenger of Peace) at the opening of Climate Summit 2014",
+		  "copy": "4 min (UN) speech by Leonardo DiCaprio arguing that the climate crisis is urgent and must be adressed",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 98,
+		  "time": "00:01:56",
+		  "title": "The state of the climate crisis | Climate Action Tracker",
+		  "copy": "5 min (TED) animated video on predicted temperature rise and the actions countries take to reduce their emissions",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Complex"
+		},
+		{
+		  "id": 124,
+		  "time": "00:01:56",
+		  "title": "How could veganism change the world? | The Economist",
+		  "copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Medium"
+		},
+		{
+		  "id": 126,
+		  "time": "00:01:56",
+		  "title": "Climate Change: What Happens If The World Warms Up By 4°C?",
+		  "copy": "2 min (skynews) animation about the possible effects of a temperature rise of 4 degrees celsius",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact/belief",
+		  "content": "Complex",
+		  "form": "Simple"
+		}
+	  ]
+	}
+  ]
+}
+{"mode":"full","isActive":false}

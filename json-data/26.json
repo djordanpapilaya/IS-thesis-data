@@ -1,0 +1,433 @@
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 10,
+	  "political_progressive": 5,
+	  "political_conservative": 3,
+	  "political_center": 2,
+	  "form_simple": 5,
+	  "form_medium": 3,
+	  "form_complex": 2,
+	  "content_simple": 4,
+	  "content_medium": 3,
+	  "content_complex": 3,
+	  "type_text": 7,
+	  "type_video": 3,
+	  "type_audio": 0,
+	  "total_time": "00:16:51",
+	  "average_time": "00:01:41"
+	},
+	"paths": {
+	  "resource": "1-1-13-25-15-124-69-102-126-20-",
+	  "political": "P-P-C-M-C-P-M-C-P-P-",
+	  "complexity": "S-S-S-M-S-C-M-C-C-M-",
+	  "type": "T-T-T-V-T-V-T-T-V-T-",
+	  "political_relative": [
+		{
+		  "P": 0
+		},
+		{
+		  "P": 0.2
+		},
+		{
+		  "C": 0.2
+		},
+		{
+		  "C": 0.30000000000000004
+		},
+		{
+		  "M": 0.30000000000000004
+		},
+		{
+		  "M": 0.4
+		},
+		{
+		  "C": 0.4
+		},
+		{
+		  "C": 0.5
+		},
+		{
+		  "P": 0.5
+		},
+		{
+		  "P": 0.6
+		},
+		{
+		  "M": 0.6
+		},
+		{
+		  "M": 0.7
+		},
+		{
+		  "C": 0.7
+		},
+		{
+		  "C": 0.7999999999999999
+		},
+		{
+		  "P": 0.7999999999999999
+		},
+		{
+		  "P": 1
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "S": 0
+		},
+		{
+		  "S": 0.3
+		},
+		{
+		  "M": 0.3
+		},
+		{
+		  "M": 0.4
+		},
+		{
+		  "S": 0.4
+		},
+		{
+		  "S": 0.5
+		},
+		{
+		  "C": 0.5
+		},
+		{
+		  "C": 0.6
+		},
+		{
+		  "M": 0.6
+		},
+		{
+		  "M": 0.7
+		},
+		{
+		  "C": 0.7
+		},
+		{
+		  "C": 0.8999999999999999
+		},
+		{
+		  "M": 0.8999999999999999
+		},
+		{
+		  "M": 0.9999999999999999
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "T": 0
+		},
+		{
+		  "T": 0.3
+		},
+		{
+		  "V": 0.3
+		},
+		{
+		  "V": 0.4
+		},
+		{
+		  "T": 0.4
+		},
+		{
+		  "T": 0.5
+		},
+		{
+		  "V": 0.5
+		},
+		{
+		  "V": 0.6
+		},
+		{
+		  "T": 0.6
+		},
+		{
+		  "T": 0.8
+		},
+		{
+		  "V": 0.8
+		},
+		{
+		  "V": 0.9
+		},
+		{
+		  "T": 0.9
+		},
+		{
+		  "T": 1
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": 0,
+	  "max_audio": 0,
+	  "avg_audio": "00:00:00",
+	  "min_video": "00:00:08",
+	  "max_video": "00:06:29",
+	  "avg_video": "00:02:50",
+	  "min_text": "00:00:09",
+	  "max_text": "00:02:20",
+	  "avg_text": "00:01:11"
+	},
+	"numb_sessions": 1,
+	"watched": [
+	  {
+		"id": 1,
+		"time": "00:00:31",
+		"title": "Climate Change Will Cost Us Even More Than We Think",
+		"copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 1,
+		"time": "00:00:09",
+		"title": "Climate Change Will Cost Us Even More Than We Think",
+		"copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 13,
+		"time": "00:02:20",
+		"title": "Global warming is a problem, but so are climate doomsayers",
+		"copy": "OPINION. Bjorn Lomborg, a visiting professor at the Copenhagen Business School. Most people on the planet wake up each day thinking that things are getting worse. It is little wonder, given what they routinely read in the newspaper or see on television. But this gloomy mood is a problem, because it feeds into scare stories about how climate change will end in Armageddon.",
+		"type": "text",
+		"political": "conservative",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 25,
+		"time": "00:00:08",
+		"title": "DON'T PANIC — Hans Rosling showing the facts about population",
+		"copy": "58 min lecture by hans rosling about the distribution of population and population growth",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 15,
+		"time": "00:01:34",
+		"title": "Man-made climate change does not exist",
+		"copy": "Piers Corbyn argues that Man-made Global Warming caused by CO1 is \"nonsense\". Instead, he argues that \"In the long run CO2 levels are an EFFECT NOT A CAUSE of changes in Climate / temperatures,\" and that it is the sun that drives climate.",
+		"type": "text",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 124,
+		"time": "00:06:29",
+		"title": "How could veganism change the world? | The Economist",
+		"copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Medium"
+	  },
+	  {
+		"id": 69,
+		"time": "00:00:24",
+		"title": "The deep ocean under climate change",
+		"copy": "The deep ocean absorbs vast amounts of heat and carbon dioxide, providing a critical buffer to climate change but exposing vulnerable ecosystems to combined stresses of warming, ocean acidification, deoxygenation, and altered food inputs. Resulting changes may threaten biodiversity and compromise key ocean services that maintain a healthy planet and human livelihoods",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Complex"
+	  },
+	  {
+		"id": 102,
+		"time": "00:01:41",
+		"title": "Scientists urge US to fund geoengineering research while admitting climate intervention is “dumb and risky”",
+		"copy": "The United States should pursue research into solar geoengineering to cool Earth even if climate intervention carries a lot of risks. This is according to a statement made by the National Academies of Sciences, Engineering and Medicine (NASEM) said on March 25.",
+		"type": "text",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Simple"
+	  },
+	  {
+		"id": 126,
+		"time": "00:01:55",
+		"title": "Climate Change: What Happens If The World Warms Up By 4°C?",
+		"copy": "2 min (skynews) animation about the possible effects of a temperature rise of 4 degrees celsius",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact/belief",
+		"content": "Complex",
+		"form": "Simple"
+	  },
+	  {
+		"id": 20,
+		"time": "00:01:40",
+		"title": "When Does Weather Become Climate?",
+		"copy": "Flexible definitions of the word “climate” may impede policy discussions on climate change. Closing apparent gaps between “climate” and “weather” may help reduce the ambiguity.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Medium",
+		"form": "Medium"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 81,
+	  "userId": 26,
+	  "total_time": "22",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36",
+	  "paths": {
+		"resource": "1-1-13-25-15-124-69-102-126-20-",
+		"political": "P-P-C-M-C-P-M-C-P-P-",
+		"complexity": "S-S-S-M-S-C-M-C-C-M-",
+		"type": "T-T-T-V-T-V-T-T-V-T-"
+	  },
+	  "stats": {
+		"numb_of_sources": 10,
+		"political_progressive": 5,
+		"political_conservative": 3,
+		"political_center": 2,
+		"form_simple": 5,
+		"form_medium": 3,
+		"form_complex": 2,
+		"content_simple": 4,
+		"content_medium": 3,
+		"content_complex": 3,
+		"type_text": 7,
+		"type_video": 3,
+		"type_audio": 0,
+		"total_time": "00:16:51",
+		"average_time": "00:01:41"
+	  },
+	  "watched": [
+		{
+		  "id": 1,
+		  "time": "00:01:40",
+		  "title": "Climate Change Will Cost Us Even More Than We Think",
+		  "copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 1,
+		  "time": "00:01:40",
+		  "title": "Climate Change Will Cost Us Even More Than We Think",
+		  "copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 13,
+		  "time": "00:01:40",
+		  "title": "Global warming is a problem, but so are climate doomsayers",
+		  "copy": "OPINION. Bjorn Lomborg, a visiting professor at the Copenhagen Business School. Most people on the planet wake up each day thinking that things are getting worse. It is little wonder, given what they routinely read in the newspaper or see on television. But this gloomy mood is a problem, because it feeds into scare stories about how climate change will end in Armageddon.",
+		  "type": "text",
+		  "political": "conservative",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 25,
+		  "time": "00:01:40",
+		  "title": "DON'T PANIC — Hans Rosling showing the facts about population",
+		  "copy": "58 min lecture by hans rosling about the distribution of population and population growth",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 15,
+		  "time": "00:01:40",
+		  "title": "Man-made climate change does not exist",
+		  "copy": "Piers Corbyn argues that Man-made Global Warming caused by CO1 is \"nonsense\". Instead, he argues that \"In the long run CO2 levels are an EFFECT NOT A CAUSE of changes in Climate / temperatures,\" and that it is the sun that drives climate.",
+		  "type": "text",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 124,
+		  "time": "00:01:40",
+		  "title": "How could veganism change the world? | The Economist",
+		  "copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Medium"
+		},
+		{
+		  "id": 69,
+		  "time": "00:01:40",
+		  "title": "The deep ocean under climate change",
+		  "copy": "The deep ocean absorbs vast amounts of heat and carbon dioxide, providing a critical buffer to climate change but exposing vulnerable ecosystems to combined stresses of warming, ocean acidification, deoxygenation, and altered food inputs. Resulting changes may threaten biodiversity and compromise key ocean services that maintain a healthy planet and human livelihoods",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Complex"
+		},
+		{
+		  "id": 102,
+		  "time": "00:01:40",
+		  "title": "Scientists urge US to fund geoengineering research while admitting climate intervention is “dumb and risky”",
+		  "copy": "The United States should pursue research into solar geoengineering to cool Earth even if climate intervention carries a lot of risks. This is according to a statement made by the National Academies of Sciences, Engineering and Medicine (NASEM) said on March 25.",
+		  "type": "text",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Simple"
+		},
+		{
+		  "id": 126,
+		  "time": "00:01:40",
+		  "title": "Climate Change: What Happens If The World Warms Up By 4°C?",
+		  "copy": "2 min (skynews) animation about the possible effects of a temperature rise of 4 degrees celsius",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact/belief",
+		  "content": "Complex",
+		  "form": "Simple"
+		},
+		{
+		  "id": 20,
+		  "time": "00:01:40",
+		  "title": "When Does Weather Become Climate?",
+		  "copy": "Flexible definitions of the word “climate” may impede policy discussions on climate change. Closing apparent gaps between “climate” and “weather” may help reduce the ambiguity.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Medium",
+		  "form": "Medium"
+		}
+	  ]
+	}
+  ]
+}
+{"mode":"full","isActive":false}

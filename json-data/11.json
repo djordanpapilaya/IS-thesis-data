@@ -1,0 +1,469 @@
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 13,
+	  "political_progressive": 7,
+	  "political_conservative": 3,
+	  "political_center": 3,
+	  "form_simple": 7,
+	  "form_medium": 4,
+	  "form_complex": 2,
+	  "content_simple": 9,
+	  "content_medium": 2,
+	  "content_complex": 2,
+	  "type_text": 5,
+	  "type_video": 5,
+	  "type_audio": 3,
+	  "total_time": "01:30:11",
+	  "average_time": "00:06:56"
+	},
+	"paths": {
+	  "resource": "5-11-13-14-15-24-17-23-23-22-37-131-125-",
+	  "political": "P-M-C-C-C-M-P-P-P-P-P-M-P-",
+	  "complexity": "S-S-S-S-S-M-M-S-S-S-S-C-C-",
+	  "type": "V-T-T-T-T-V-T-A-A-A-V-V-V-",
+	  "political_relative": [
+		{
+		  "P": 0
+		},
+		{
+		  "P": 0.07692307692307693
+		},
+		{
+		  "M": 0.07692307692307693
+		},
+		{
+		  "M": 0.15384615384615385
+		},
+		{
+		  "C": 0.15384615384615385
+		},
+		{
+		  "C": 0.38461538461538464
+		},
+		{
+		  "M": 0.38461538461538464
+		},
+		{
+		  "M": 0.46153846153846156
+		},
+		{
+		  "P": 0.46153846153846156
+		},
+		{
+		  "P": 0.8461538461538463
+		},
+		{
+		  "M": 0.8461538461538463
+		},
+		{
+		  "M": 0.9230769230769231
+		},
+		{
+		  "P": 0.9230769230769231
+		},
+		{
+		  "P": 1
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "S": 0
+		},
+		{
+		  "S": 0.38461538461538464
+		},
+		{
+		  "M": 0.38461538461538464
+		},
+		{
+		  "M": 0.5384615384615385
+		},
+		{
+		  "S": 0.5384615384615385
+		},
+		{
+		  "S": 0.8461538461538463
+		},
+		{
+		  "C": 0.8461538461538463
+		},
+		{
+		  "C": 1
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "V": 0
+		},
+		{
+		  "V": 0.07692307692307693
+		},
+		{
+		  "T": 0.07692307692307693
+		},
+		{
+		  "T": 0.38461538461538464
+		},
+		{
+		  "V": 0.38461538461538464
+		},
+		{
+		  "V": 0.46153846153846156
+		},
+		{
+		  "T": 0.46153846153846156
+		},
+		{
+		  "T": 0.5384615384615385
+		},
+		{
+		  "A": 0.5384615384615385
+		},
+		{
+		  "A": 0.7692307692307694
+		},
+		{
+		  "V": 0.7692307692307694
+		},
+		{
+		  "V": 1.0000000000000002
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": "00:00:05",
+	  "max_audio": "00:34:50",
+	  "avg_audio": "00:11:40",
+	  "min_video": "00:01:55",
+	  "max_video": "00:06:21",
+	  "avg_video": "00:04:00",
+	  "min_text": "00:02:39",
+	  "max_text": "00:13:44",
+	  "avg_text": "00:07:02"
+	},
+	"numb_sessions": 1,
+	"watched": [
+	  {
+		"id": 5,
+		"time": "00:04:43",
+		"title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		"copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 11,
+		"time": "00:02:39",
+		"title": "Did the Drop in COVID-Related Emissions Affect the Climate?",
+		"copy": "Global emissions dropped markedly in 2020, due in large part to lockdowns that slowed economic and social activity, but the climate likely won’t be noticeably affected.",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 13,
+		"time": "00:05:37",
+		"title": "Global warming is a problem, but so are climate doomsayers",
+		"copy": "OPINION. Bjorn Lomborg, a visiting professor at the Copenhagen Business School. Most people on the planet wake up each day thinking that things are getting worse. It is little wonder, given what they routinely read in the newspaper or see on television. But this gloomy mood is a problem, because it feeds into scare stories about how climate change will end in Armageddon.",
+		"type": "text",
+		"political": "conservative",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 14,
+		"time": "00:02:45",
+		"title": "Don’t mess with Mother Earth. Climate change is a hoax | Letter to the editor",
+		"copy": "Rising sea levels? Well, it has not happened yet, but hey some scientists say it might or it will in the future. I personally doubt it and I believe all this doom and gloom about global warming or, when the climate does not fit the narrative, it is called climate change, is a big money making hoax.",
+		"type": "text",
+		"political": "conservative",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 15,
+		"time": "00:10:25",
+		"title": "Man-made climate change does not exist",
+		"copy": "Piers Corbyn argues that Man-made Global Warming caused by CO1 is \"nonsense\". Instead, he argues that \"In the long run CO2 levels are an EFFECT NOT A CAUSE of changes in Climate / temperatures,\" and that it is the sun that drives climate.",
+		"type": "text",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 24,
+		"time": "00:02:55",
+		"title": "Climate Change: What Happens If The World Warms Up By 2°C?",
+		"copy": "2 min (skynews) animation about the possible effects of a temperature increase of 2 degrees celsius",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 17,
+		"time": "00:13:44",
+		"title": "Climate Grant Universities Could Mobilize Community Climate Action",
+		"copy": "With cues from the successful land grant model, the United States should establish a system of universities to democratize access to climate knowledge and aid efforts to tackle the climate crisis.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 23,
+		"time": "00:00:06",
+		"title": "Generation Green New Deal - Where Have Adults Been?",
+		"copy": "Amy Westervelt of the DrillIed podcast co-hosts this episode as we delve into the question of why it's taken so much time, and a movement led by teenagers and 20-somethings, to push politicians to get serious about climate action.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 23,
+		"time": "00:34:50",
+		"title": "Generation Green New Deal - Where Have Adults Been?",
+		"copy": "Amy Westervelt of the DrillIed podcast co-hosts this episode as we delve into the question of why it's taken so much time, and a movement led by teenagers and 20-somethings, to push politicians to get serious about climate action.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 22,
+		"time": "00:00:05",
+		"title": "How to Save a Planet - Presenting: Science Vs",
+		"copy": "We know that carbon dioxide is rising and we know that it’s warming the world, but how did scientists figure that out in the first place? And what will all this warming mean for our future? Our friends at the Gimlet podcast, Science Vs., visited a couple climate scientists to find out.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 37,
+		"time": "00:04:06",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 131,
+		"time": "00:01:55",
+		"title": "Is It Too Late To Stop Climate Change? Well, it's Complicated.",
+		"copy": "10 min long animated video on possible ways to address climate change",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Simple"
+	  },
+	  {
+		"id": 125,
+		"time": "00:06:21",
+		"title": "Why Meat is the Best Worst Thing in the World ",
+		"copy": "8 min animation on why meat is not an effective way to feed humans",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Simple"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 22,
+	  "userId": 11,
+	  "total_time": "93",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "5-11-13-14-15-24-17-23-23-22-37-131-125-",
+		"political": "P-M-C-C-C-M-P-P-P-P-P-M-P-",
+		"complexity": "S-S-S-S-S-M-M-S-S-S-S-C-C-",
+		"type": "V-T-T-T-T-V-T-A-A-A-V-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 13,
+		"political_progressive": 7,
+		"political_conservative": 3,
+		"political_center": 3,
+		"form_simple": 7,
+		"form_medium": 4,
+		"form_complex": 2,
+		"content_simple": 9,
+		"content_medium": 2,
+		"content_complex": 2,
+		"type_text": 5,
+		"type_video": 5,
+		"type_audio": 3,
+		"total_time": "01:30:11",
+		"average_time": "00:06:56"
+	  },
+	  "watched": [
+		{
+		  "id": 5,
+		  "time": "00:06:21",
+		  "title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		  "copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 11,
+		  "time": "00:06:21",
+		  "title": "Did the Drop in COVID-Related Emissions Affect the Climate?",
+		  "copy": "Global emissions dropped markedly in 2020, due in large part to lockdowns that slowed economic and social activity, but the climate likely won’t be noticeably affected.",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 13,
+		  "time": "00:06:21",
+		  "title": "Global warming is a problem, but so are climate doomsayers",
+		  "copy": "OPINION. Bjorn Lomborg, a visiting professor at the Copenhagen Business School. Most people on the planet wake up each day thinking that things are getting worse. It is little wonder, given what they routinely read in the newspaper or see on television. But this gloomy mood is a problem, because it feeds into scare stories about how climate change will end in Armageddon.",
+		  "type": "text",
+		  "political": "conservative",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 14,
+		  "time": "00:06:21",
+		  "title": "Don’t mess with Mother Earth. Climate change is a hoax | Letter to the editor",
+		  "copy": "Rising sea levels? Well, it has not happened yet, but hey some scientists say it might or it will in the future. I personally doubt it and I believe all this doom and gloom about global warming or, when the climate does not fit the narrative, it is called climate change, is a big money making hoax.",
+		  "type": "text",
+		  "political": "conservative",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 15,
+		  "time": "00:06:21",
+		  "title": "Man-made climate change does not exist",
+		  "copy": "Piers Corbyn argues that Man-made Global Warming caused by CO1 is \"nonsense\". Instead, he argues that \"In the long run CO2 levels are an EFFECT NOT A CAUSE of changes in Climate / temperatures,\" and that it is the sun that drives climate.",
+		  "type": "text",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 24,
+		  "time": "00:06:21",
+		  "title": "Climate Change: What Happens If The World Warms Up By 2°C?",
+		  "copy": "2 min (skynews) animation about the possible effects of a temperature increase of 2 degrees celsius",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 17,
+		  "time": "00:06:21",
+		  "title": "Climate Grant Universities Could Mobilize Community Climate Action",
+		  "copy": "With cues from the successful land grant model, the United States should establish a system of universities to democratize access to climate knowledge and aid efforts to tackle the climate crisis.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 23,
+		  "time": "00:06:21",
+		  "title": "Generation Green New Deal - Where Have Adults Been?",
+		  "copy": "Amy Westervelt of the DrillIed podcast co-hosts this episode as we delve into the question of why it's taken so much time, and a movement led by teenagers and 20-somethings, to push politicians to get serious about climate action.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 23,
+		  "time": "00:06:21",
+		  "title": "Generation Green New Deal - Where Have Adults Been?",
+		  "copy": "Amy Westervelt of the DrillIed podcast co-hosts this episode as we delve into the question of why it's taken so much time, and a movement led by teenagers and 20-somethings, to push politicians to get serious about climate action.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 22,
+		  "time": "00:06:21",
+		  "title": "How to Save a Planet - Presenting: Science Vs",
+		  "copy": "We know that carbon dioxide is rising and we know that it’s warming the world, but how did scientists figure that out in the first place? And what will all this warming mean for our future? Our friends at the Gimlet podcast, Science Vs., visited a couple climate scientists to find out.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 37,
+		  "time": "00:06:21",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 131,
+		  "time": "00:06:21",
+		  "title": "Is It Too Late To Stop Climate Change? Well, it's Complicated.",
+		  "copy": "10 min long animated video on possible ways to address climate change",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Simple"
+		},
+		{
+		  "id": 125,
+		  "time": "00:06:21",
+		  "title": "Why Meat is the Best Worst Thing in the World ",
+		  "copy": "8 min animation on why meat is not an effective way to feed humans",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Simple"
+		}
+	  ]
+	}
+  ]
+}
+{"mode":"full","isActive":false}

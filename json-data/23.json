@@ -1,0 +1,635 @@
+
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 15,
+	  "political_progressive": 9,
+	  "political_conservative": 3,
+	  "political_center": 3,
+	  "form_simple": 2,
+	  "form_medium": 8,
+	  "form_complex": 5,
+	  "content_simple": 8,
+	  "content_medium": 6,
+	  "content_complex": 1,
+	  "type_text": 3,
+	  "type_video": 9,
+	  "type_audio": 3,
+	  "total_time": "01:53:07",
+	  "average_time": "00:07:32"
+	},
+	"paths": {
+	  "resource": "6-36-27-9-37-43-39-49-25-45-68-85-124-93-93-",
+	  "political": "P-P-C-M-P-C-P-P-M-C-P-M-P-P-P-",
+	  "complexity": "S-S-S-S-S-S-M-S-M-S-M-M-C-M-M-",
+	  "type": "T-A-A-T-V-V-T-V-V-V-A-V-V-V-V-",
+	  "political_relative": [
+		{
+		  "P": 0
+		},
+		{
+		  "P": 0.13333333333333333
+		},
+		{
+		  "C": 0.13333333333333333
+		},
+		{
+		  "C": 0.2
+		},
+		{
+		  "M": 0.2
+		},
+		{
+		  "M": 0.26666666666666666
+		},
+		{
+		  "P": 0.26666666666666666
+		},
+		{
+		  "P": 0.3333333333333333
+		},
+		{
+		  "C": 0.3333333333333333
+		},
+		{
+		  "C": 0.39999999999999997
+		},
+		{
+		  "P": 0.39999999999999997
+		},
+		{
+		  "P": 0.5333333333333333
+		},
+		{
+		  "M": 0.5333333333333333
+		},
+		{
+		  "M": 0.6
+		},
+		{
+		  "C": 0.6
+		},
+		{
+		  "C": 0.6666666666666666
+		},
+		{
+		  "P": 0.6666666666666666
+		},
+		{
+		  "P": 0.7333333333333333
+		},
+		{
+		  "M": 0.7333333333333333
+		},
+		{
+		  "M": 0.7999999999999999
+		},
+		{
+		  "P": 0.7999999999999999
+		},
+		{
+		  "P": 1
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "S": 0
+		},
+		{
+		  "S": 0.4
+		},
+		{
+		  "M": 0.4
+		},
+		{
+		  "M": 0.4666666666666667
+		},
+		{
+		  "S": 0.4666666666666667
+		},
+		{
+		  "S": 0.5333333333333333
+		},
+		{
+		  "M": 0.5333333333333333
+		},
+		{
+		  "M": 0.6
+		},
+		{
+		  "S": 0.6
+		},
+		{
+		  "S": 0.6666666666666666
+		},
+		{
+		  "M": 0.6666666666666666
+		},
+		{
+		  "M": 0.7999999999999999
+		},
+		{
+		  "C": 0.7999999999999999
+		},
+		{
+		  "C": 0.8666666666666666
+		},
+		{
+		  "M": 0.8666666666666666
+		},
+		{
+		  "M": 0.9999999999999999
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "T": 0
+		},
+		{
+		  "T": 0.06666666666666667
+		},
+		{
+		  "A": 0.06666666666666667
+		},
+		{
+		  "A": 0.2
+		},
+		{
+		  "T": 0.2
+		},
+		{
+		  "T": 0.26666666666666666
+		},
+		{
+		  "V": 0.26666666666666666
+		},
+		{
+		  "V": 0.4
+		},
+		{
+		  "T": 0.4
+		},
+		{
+		  "T": 0.4666666666666667
+		},
+		{
+		  "V": 0.4666666666666667
+		},
+		{
+		  "V": 0.6666666666666667
+		},
+		{
+		  "A": 0.6666666666666667
+		},
+		{
+		  "A": 0.7333333333333334
+		},
+		{
+		  "V": 0.7333333333333334
+		},
+		{
+		  "V": 1
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": "00:00:59",
+	  "max_audio": "00:17:47",
+	  "avg_audio": "00:12:10",
+	  "min_video": "00:00:02",
+	  "max_video": "00:15:34",
+	  "avg_video": "00:06:54",
+	  "min_text": "00:00:26",
+	  "max_text": "00:11:42",
+	  "avg_text": "00:04:49"
+	},
+	"numb_sessions": 3,
+	"watched": [
+	  {
+		"id": 6,
+		"time": "00:02:20",
+		"title": "Climate Change - by Chris Riedy",
+		"copy": "In the period since the Industrial Revolution, human emissions of greenhouse gases from fossil fuel combustion, deforestation and agricultural practices have led to global warming and climate change.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 36,
+		"time": "00:17:44",
+		"title": "Living Planet: Water wars",
+		"copy": "In the Global North, clean water is taken for granted — but in some places it means the difference between life and death. \"Water wars\" are taking place as people fight failing systems, and combat climate change, to access enough clean water for all.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 27,
+		"time": "00:17:47",
+		"title": "Triggered - CNN's Climate Propaganda Night",
+		"copy": "Last night was CNN's climate propaganda night. The top 10 Democratic candidates headed into an echo chamber to discuss their radical climate change policies. Matt and Storm discuss.",
+		"type": "audio",
+		"political": "conservative",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 9,
+		"time": "00:00:26",
+		"title": "A spike in Arctic lightning strikes may be linked to climate change",
+		"copy": "Arctic lightning has gotten way more frequent over the last decade amid rising global temperatures, study finds",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 37,
+		"time": "00:03:46",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 43,
+		"time": "00:03:07",
+		"title": "Do 97% of scientists actually agree on climate change?",
+		"copy": "3 min (OAN) interview with climate change skeptics, arguing that not all scientists argee and that consensus may not be correct",
+		"type": "video",
+		"political": "conservative",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 39,
+		"time": "00:11:42",
+		"title": "Under-reporting of greenhouse gas emissions\r\nin U.S. cities",
+		"copy": "Cities dominate greenhouse gas emissions. Many have generated self-reported emission\r\ninventories, but their value to emissions mitigation depends on their accuracy, which remains\r\nuntested.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Complex"
+	  },
+	  {
+		"id": 49,
+		"time": "00:08:12",
+		"title": "How to Save Our Planet",
+		"copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 25,
+		"time": "00:10:23",
+		"title": "DON'T PANIC — Hans Rosling showing the facts about population",
+		"copy": "58 min lecture by hans rosling about the distribution of population and population growth",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 45,
+		"time": "00:04:47",
+		"title": "Climate Change: What Do Scientists Say?",
+		"copy": "5 min (PragerU) video of a climate skeptic scientist giving his views on the debate of climate change",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 68,
+		"time": "00:00:59",
+		"title": "Why It's Hard To Change Minds About Climate Change",
+		"copy": "Over the weekend, Lesley Stahl of \"60 Minutes\" interviewed President Trump about a variety of issues, including climate change:",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 85,
+		"time": "00:15:34",
+		"title": "Why renewables can’t save the planet | Michael Shellenberger | TEDxDanubia",
+		"copy": "17 min (TED) lecture on the difficulties of generating renewable energies (related to wild life and efficiency), argument for nuclear energy",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Complex"
+	  },
+	  {
+		"id": 124,
+		"time": "00:06:28",
+		"title": "How could veganism change the world? | The Economist",
+		"copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Medium"
+	  },
+	  {
+		"id": 93,
+		"time": "00:09:50",
+		"title": "How Amazon deforestation could push the climate to a 'tipping point'",
+		"copy": "9 min (PBS) report on deforestation in the Brazilian Amazon due to agriculture and effects on climate",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 93,
+		"time": "00:00:02",
+		"title": "How Amazon deforestation could push the climate to a 'tipping point'",
+		"copy": "9 min (PBS) report on deforestation in the Brazilian Amazon due to agriculture and effects on climate",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 60,
+	  "userId": 23,
+	  "total_time": "67",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15",
+	  "paths": {
+		"resource": "6-36-27-9-37-43-39-49-",
+		"political": "P-P-C-M-P-C-P-P-",
+		"complexity": "S-S-S-S-S-S-M-S-",
+		"type": "T-A-A-T-V-V-T-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 8,
+		"political_progressive": 5,
+		"political_conservative": 2,
+		"political_center": 1,
+		"form_simple": 1,
+		"form_medium": 3,
+		"form_complex": 4,
+		"content_simple": 7,
+		"content_medium": 1,
+		"content_complex": 0,
+		"type_text": 3,
+		"type_video": 3,
+		"type_audio": 2,
+		"total_time": "01:05:04",
+		"average_time": "00:08:08"
+	  },
+	  "watched": [
+		{
+		  "id": 6,
+		  "time": "00:00:02",
+		  "title": "Climate Change - by Chris Riedy",
+		  "copy": "In the period since the Industrial Revolution, human emissions of greenhouse gases from fossil fuel combustion, deforestation and agricultural practices have led to global warming and climate change.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 36,
+		  "time": "00:00:02",
+		  "title": "Living Planet: Water wars",
+		  "copy": "In the Global North, clean water is taken for granted — but in some places it means the difference between life and death. \"Water wars\" are taking place as people fight failing systems, and combat climate change, to access enough clean water for all.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 27,
+		  "time": "00:00:02",
+		  "title": "Triggered - CNN's Climate Propaganda Night",
+		  "copy": "Last night was CNN's climate propaganda night. The top 10 Democratic candidates headed into an echo chamber to discuss their radical climate change policies. Matt and Storm discuss.",
+		  "type": "audio",
+		  "political": "conservative",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 9,
+		  "time": "00:00:02",
+		  "title": "A spike in Arctic lightning strikes may be linked to climate change",
+		  "copy": "Arctic lightning has gotten way more frequent over the last decade amid rising global temperatures, study finds",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 37,
+		  "time": "00:00:02",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 43,
+		  "time": "00:00:02",
+		  "title": "Do 97% of scientists actually agree on climate change?",
+		  "copy": "3 min (OAN) interview with climate change skeptics, arguing that not all scientists argee and that consensus may not be correct",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 39,
+		  "time": "00:00:02",
+		  "title": "Under-reporting of greenhouse gas emissions\r\nin U.S. cities",
+		  "copy": "Cities dominate greenhouse gas emissions. Many have generated self-reported emission\r\ninventories, but their value to emissions mitigation depends on their accuracy, which remains\r\nuntested.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Complex"
+		},
+		{
+		  "id": 49,
+		  "time": "00:00:02",
+		  "title": "How to Save Our Planet",
+		  "copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		}
+	  ]
+	},
+	{
+	  "id": 76,
+	  "userId": 23,
+	  "total_time": "65",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15",
+	  "paths": {
+		"resource": "25-45-68-85-124-93-93-",
+		"political": "M-C-P-M-P-P-P-",
+		"complexity": "M-S-M-M-C-M-M-",
+		"type": "V-V-A-V-V-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 7,
+		"political_progressive": 4,
+		"political_conservative": 1,
+		"political_center": 2,
+		"form_simple": 1,
+		"form_medium": 5,
+		"form_complex": 1,
+		"content_simple": 1,
+		"content_medium": 5,
+		"content_complex": 1,
+		"type_text": 0,
+		"type_video": 6,
+		"type_audio": 1,
+		"total_time": "00:48:03",
+		"average_time": "00:06:51"
+	  },
+	  "watched": [
+		{
+		  "id": 25,
+		  "time": "00:00:02",
+		  "title": "DON'T PANIC — Hans Rosling showing the facts about population",
+		  "copy": "58 min lecture by hans rosling about the distribution of population and population growth",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 45,
+		  "time": "00:00:02",
+		  "title": "Climate Change: What Do Scientists Say?",
+		  "copy": "5 min (PragerU) video of a climate skeptic scientist giving his views on the debate of climate change",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 68,
+		  "time": "00:00:02",
+		  "title": "Why It's Hard To Change Minds About Climate Change",
+		  "copy": "Over the weekend, Lesley Stahl of \"60 Minutes\" interviewed President Trump about a variety of issues, including climate change:",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 85,
+		  "time": "00:00:02",
+		  "title": "Why renewables can’t save the planet | Michael Shellenberger | TEDxDanubia",
+		  "copy": "17 min (TED) lecture on the difficulties of generating renewable energies (related to wild life and efficiency), argument for nuclear energy",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Complex"
+		},
+		{
+		  "id": 124,
+		  "time": "00:00:02",
+		  "title": "How could veganism change the world? | The Economist",
+		  "copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Medium"
+		},
+		{
+		  "id": 93,
+		  "time": "00:00:02",
+		  "title": "How Amazon deforestation could push the climate to a 'tipping point'",
+		  "copy": "9 min (PBS) report on deforestation in the Brazilian Amazon due to agriculture and effects on climate",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 93,
+		  "time": "00:00:02",
+		  "title": "How Amazon deforestation could push the climate to a 'tipping point'",
+		  "copy": "9 min (PBS) report on deforestation in the Brazilian Amazon due to agriculture and effects on climate",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		}
+	  ]
+	},
+	{
+	  "id": 77,
+	  "userId": 23,
+	  "total_time": "1",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15",
+	  "paths": {
+		"resource": "",
+		"political": "",
+		"complexity": "",
+		"type": ""
+	  },
+	  "stats": {
+		"numb_of_sources": 0,
+		"political_progressive": 0,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 0,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 0,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": 0,
+		"average_time": 0
+	  },
+	  "watched": []
+	}
+  ]
+}
+{"mode":"full","isActive":false}

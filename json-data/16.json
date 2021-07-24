@@ -1,0 +1,1299 @@
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 34,
+	  "political_progressive": 24,
+	  "political_conservative": 2,
+	  "political_center": 8,
+	  "form_simple": 11,
+	  "form_medium": 9,
+	  "form_complex": 14,
+	  "content_simple": 25,
+	  "content_medium": 4,
+	  "content_complex": 5,
+	  "type_text": 12,
+	  "type_video": 15,
+	  "type_audio": 7,
+	  "total_time": "03:16:51",
+	  "average_time": "00:05:47"
+	},
+	"paths": {
+	  "resource": "1-1-2-3-4-5-6-6-7-6-8-9-10-16-18-19-21-22-24-25-23-129-31-101-101-101-49-93-38-52-83-37-72-42-",
+	  "political": "P-P-P-P-P-P-P-P-P-P-P-M-M-P-P-P-P-P-M-M-P-M-P-M-M-M-P-P-P-P-P-P-C-C-",
+	  "complexity": "S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-M-M-S-C-S-C-C-C-S-M-S-S-M-S-C-S-",
+	  "type": "T-T-T-T-T-V-T-T-T-T-T-T-T-A-A-A-A-A-V-V-A-V-A-V-V-V-V-V-V-V-V-V-V-V-",
+	  "political_relative": [
+		{
+		  "P": 0
+		},
+		{
+		  "P": 0.3235294117647059
+		},
+		{
+		  "M": 0.3235294117647059
+		},
+		{
+		  "M": 0.3823529411764706
+		},
+		{
+		  "P": 0.3823529411764706
+		},
+		{
+		  "P": 0.5294117647058824
+		},
+		{
+		  "M": 0.5294117647058824
+		},
+		{
+		  "M": 0.5882352941176471
+		},
+		{
+		  "P": 0.5882352941176471
+		},
+		{
+		  "P": 0.6176470588235294
+		},
+		{
+		  "M": 0.6176470588235294
+		},
+		{
+		  "M": 0.6470588235294118
+		},
+		{
+		  "P": 0.6470588235294118
+		},
+		{
+		  "P": 0.6764705882352942
+		},
+		{
+		  "M": 0.6764705882352942
+		},
+		{
+		  "M": 0.7647058823529412
+		},
+		{
+		  "P": 0.7647058823529412
+		},
+		{
+		  "P": 0.9411764705882354
+		},
+		{
+		  "C": 0.9411764705882354
+		},
+		{
+		  "C": 1
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "S": 0
+		},
+		{
+		  "S": 0.5294117647058824
+		},
+		{
+		  "M": 0.5294117647058824
+		},
+		{
+		  "M": 0.5882352941176471
+		},
+		{
+		  "S": 0.5882352941176471
+		},
+		{
+		  "S": 0.6176470588235294
+		},
+		{
+		  "C": 0.6176470588235294
+		},
+		{
+		  "C": 0.6470588235294118
+		},
+		{
+		  "S": 0.6470588235294118
+		},
+		{
+		  "S": 0.6764705882352942
+		},
+		{
+		  "C": 0.6764705882352942
+		},
+		{
+		  "C": 0.7647058823529412
+		},
+		{
+		  "S": 0.7647058823529412
+		},
+		{
+		  "S": 0.7941176470588236
+		},
+		{
+		  "M": 0.7941176470588236
+		},
+		{
+		  "M": 0.823529411764706
+		},
+		{
+		  "S": 0.823529411764706
+		},
+		{
+		  "S": 0.8823529411764707
+		},
+		{
+		  "M": 0.8823529411764707
+		},
+		{
+		  "M": 0.911764705882353
+		},
+		{
+		  "S": 0.911764705882353
+		},
+		{
+		  "S": 0.9411764705882354
+		},
+		{
+		  "C": 0.9411764705882354
+		},
+		{
+		  "C": 0.9705882352941178
+		},
+		{
+		  "S": 0.9705882352941178
+		},
+		{
+		  "S": 1
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "T": 0
+		},
+		{
+		  "T": 0.14705882352941177
+		},
+		{
+		  "V": 0.14705882352941177
+		},
+		{
+		  "V": 0.17647058823529413
+		},
+		{
+		  "T": 0.17647058823529413
+		},
+		{
+		  "T": 0.38235294117647056
+		},
+		{
+		  "A": 0.38235294117647056
+		},
+		{
+		  "A": 0.5294117647058824
+		},
+		{
+		  "V": 0.5294117647058824
+		},
+		{
+		  "V": 0.5882352941176471
+		},
+		{
+		  "A": 0.5882352941176471
+		},
+		{
+		  "A": 0.6176470588235294
+		},
+		{
+		  "V": 0.6176470588235294
+		},
+		{
+		  "V": 0.6470588235294118
+		},
+		{
+		  "A": 0.6470588235294118
+		},
+		{
+		  "A": 0.6764705882352942
+		},
+		{
+		  "V": 0.6764705882352942
+		},
+		{
+		  "V": 1
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": "00:00:23",
+	  "max_audio": "00:15:50",
+	  "avg_audio": "00:07:56",
+	  "min_video": "00:00:06",
+	  "max_video": "00:37:15",
+	  "avg_video": "00:07:33",
+	  "min_text": "00:00:02",
+	  "max_text": "00:05:56",
+	  "avg_text": "00:02:19"
+	},
+	"numb_sessions": 10,
+	"watched": [
+	  {
+		"id": 1,
+		"time": "00:00:12",
+		"title": "Climate Change Will Cost Us Even More Than We Think",
+		"copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 1,
+		"time": "00:04:46",
+		"title": "Climate Change Will Cost Us Even More Than We Think",
+		"copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 2,
+		"time": "00:04:05",
+		"title": "Satellites show world’s glaciers melting faster than ever",
+		"copy": "Glaciers are melting faster, losing 31 percent more snow and ice per year than they did 15 years earlier, according to three-dimensional satellite measurements of all the world’s mountain glaciers.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 3,
+		"time": "00:02:28",
+		"title": "The world wasted nearly 1 billion metric tons of food in 2019",
+		"copy": "The world wasted about 931 million metric tons of food in 2019 — an average of 121 kilograms per person. That’s about 17 percent of all food that was available to consumers that year, a new United Nations report estimates.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 4,
+		"time": "00:02:50",
+		"title": "Global energy growth is outpacing decarbonization",
+		"copy": "Recent reports have highlighted the challenge of keeping global average temperatures below 2 °C and - even more so -1.5 °C (IPCC 2018). Fossil-fuel burning and cement production release∼90% of all\r\nCO2 emissions from human activities.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 5,
+		"time": "00:05:43",
+		"title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		"copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 6,
+		"time": "00:00:02",
+		"title": "Climate Change - by Chris Riedy",
+		"copy": "In the period since the Industrial Revolution, human emissions of greenhouse gases from fossil fuel combustion, deforestation and agricultural practices have led to global warming and climate change.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 6,
+		"time": "00:00:08",
+		"title": "Climate Change - by Chris Riedy",
+		"copy": "In the period since the Industrial Revolution, human emissions of greenhouse gases from fossil fuel combustion, deforestation and agricultural practices have led to global warming and climate change.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 7,
+		"time": "00:05:56",
+		"title": "Special Issue Introduction: Adding insult to injury: Climate change and theinequities of climate intervention",
+		"copy": "Climate change is redistribution. It alters the timing and intensityof our rains and winds, the humidity in our soils, and the sea levelaround us",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 6,
+		"time": "00:00:07",
+		"title": "Climate Change - by Chris Riedy",
+		"copy": "In the period since the Industrial Revolution, human emissions of greenhouse gases from fossil fuel combustion, deforestation and agricultural practices have led to global warming and climate change.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 8,
+		"time": "00:02:47",
+		"title": "Introduction: Consequences of Global Warming to Planetary and Human Health",
+		"copy": "Global warming occurs from anthropogenic fossil-fuel burning, increasing greenhouse gases and causing Earth’s mean surface temperature to rise.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 9,
+		"time": "00:01:13",
+		"title": "A spike in Arctic lightning strikes may be linked to climate change",
+		"copy": "Arctic lightning has gotten way more frequent over the last decade amid rising global temperatures, study finds",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 10,
+		"time": "00:03:24",
+		"title": "NASA: Global Warming",
+		"copy": "Throughout its long history, Earth has warmed and cooled time and again. Climate has changed when the planet received more or less sunlight due to subtle shifts in its orbit, as the atmosphere or surface changed, or when the Sun’s energy varied. But in the past century, another force has started to influence Earth’s climate: humanity.",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 16,
+		"time": "00:15:50",
+		"title": "Costing the Earth: Fields Paved with Gold",
+		"copy": "Solar panels could be the latest get rich quick scheme for landowners. Or they could leave many investors out of pocket. Tom Heap asks if this solar gold rush is sustainable.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 18,
+		"time": "00:14:57",
+		"title": "Costing the Earth: How to Halve Emissions by 2030",
+		"copy": "Ahead of the crucial COP26 climate conference in November, experts chart the route to halving global GHG emissions by 2030.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 19,
+		"time": "00:00:45",
+		"title": "Costing the Earth: Zero Carbon Britain",
+		"copy": "The UK is one of the few advanced economies to commit to the idea of net zero carbon emissions by 2050. Tom Heap asks if we can achieve our ambitious goal.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 21,
+		"time": "00:03:02",
+		"title": "Climate Change Is Not Our Fault",
+		"copy": "It's time to change the way we talk about climate change.\r\n\r\nPolitical leaders have acknowledged human-driven (or \"anthropogenic\") global warming since 1964 (when President Lyndon Johnson mentioned it in a speech to Congress). Since then, however, we've done almost nothing to address its dangers.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 22,
+		"time": "00:07:16",
+		"title": "How to Save a Planet - Presenting: Science Vs",
+		"copy": "We know that carbon dioxide is rising and we know that it’s warming the world, but how did scientists figure that out in the first place? And what will all this warming mean for our future? Our friends at the Gimlet podcast, Science Vs., visited a couple climate scientists to find out.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 24,
+		"time": "00:02:36",
+		"title": "Climate Change: What Happens If The World Warms Up By 2°C?",
+		"copy": "2 min (skynews) animation about the possible effects of a temperature increase of 2 degrees celsius",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 25,
+		"time": "00:16:59",
+		"title": "DON'T PANIC — Hans Rosling showing the facts about population",
+		"copy": "58 min lecture by hans rosling about the distribution of population and population growth",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 23,
+		"time": "00:13:23",
+		"title": "Generation Green New Deal - Where Have Adults Been?",
+		"copy": "Amy Westervelt of the DrillIed podcast co-hosts this episode as we delve into the question of why it's taken so much time, and a movement led by teenagers and 20-somethings, to push politicians to get serious about climate action.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 129,
+		"time": "00:04:58",
+		"title": "Climate I: Is The Debate Over?",
+		"copy": "52 min in depth debate between two climate change scientists (a skeptic and a supporter)",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Complex"
+	  },
+	  {
+		"id": 31,
+		"time": "00:00:23",
+		"title": "Inherited - The Green New Dream",
+		"copy": "Listen, 2020 has been rough. Between the pandemic, climate fires, police brutality, and the election, this year has felt like we’re hurtling down a highway to hell. But today, we’re taking an exit.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 101,
+		"time": "00:00:50",
+		"title": "The Maths of Climate Change",
+		"copy": "59 min lecture on the mathematics behind the models that try to predict climate change",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Complex"
+	  },
+	  {
+		"id": 101,
+		"time": "00:00:06",
+		"title": "The Maths of Climate Change",
+		"copy": "59 min lecture on the mathematics behind the models that try to predict climate change",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Complex"
+	  },
+	  {
+		"id": 101,
+		"time": "00:37:15",
+		"title": "The Maths of Climate Change",
+		"copy": "59 min lecture on the mathematics behind the models that try to predict climate change",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Complex"
+	  },
+	  {
+		"id": 49,
+		"time": "00:08:08",
+		"title": "How to Save Our Planet",
+		"copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 93,
+		"time": "00:09:44",
+		"title": "How Amazon deforestation could push the climate to a 'tipping point'",
+		"copy": "9 min (PBS) report on deforestation in the Brazilian Amazon due to agriculture and effects on climate",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 38,
+		"time": "00:04:38",
+		"title": "Greta Thunberg to world leaders: 'How dare you? You have stolen my dreams and my childhood'",
+		"copy": "4 min speech of greta thunberg at 2019 UN climate summit",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 52,
+		"time": "00:04:05",
+		"title": "Leonardo DiCaprio (UN Messenger of Peace) at the opening of Climate Summit 2014",
+		"copy": "4 min (UN) speech by Leonardo DiCaprio arguing that the climate crisis is urgent and must be adressed",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 83,
+		"time": "00:08:09",
+		"title": "Climate Refugees: Nations under threat",
+		"copy": "8 min (CBS) report on the island group of Kiribati and the effects climate change has on their life",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 37,
+		"time": "00:03:45",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 72,
+		"time": "00:01:13",
+		"title": "Is Climate Change an Existential Threat?",
+		"copy": "7 min (PragerU) animated video debunking the fact that fossil fuels are an existential threat to human life (+recommendation of nuclear energy)",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Simple"
+	  },
+	  {
+		"id": 42,
+		"time": "00:05:08",
+		"title": "What Greta Thunberg does not understand about climate change | Jordan Peterson",
+		"copy": "7 min speech in reaction to speech of greta thunberg by jordan peterson",
+		"type": "video",
+		"political": "conservative",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 32,
+	  "userId": 16,
+	  "total_time": "2",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "",
+		"political": "",
+		"complexity": "",
+		"type": ""
+	  },
+	  "stats": {
+		"numb_of_sources": 0,
+		"political_progressive": 0,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 0,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 0,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": 0,
+		"average_time": 0
+	  },
+	  "watched": []
+	},
+	{
+	  "id": 33,
+	  "userId": 16,
+	  "total_time": "34",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "1-1-2-3-4-5-6-6-7-",
+		"political": "P-P-P-P-P-P-P-P-P-",
+		"complexity": "S-S-S-S-S-S-S-S-S-",
+		"type": "T-T-T-T-T-V-T-T-T-"
+	  },
+	  "stats": {
+		"numb_of_sources": 9,
+		"political_progressive": 9,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 4,
+		"form_medium": 1,
+		"form_complex": 4,
+		"content_simple": 9,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 8,
+		"type_video": 1,
+		"type_audio": 0,
+		"total_time": "00:26:10",
+		"average_time": "00:02:54"
+	  },
+	  "watched": [
+		{
+		  "id": 1,
+		  "time": "00:05:08",
+		  "title": "Climate Change Will Cost Us Even More Than We Think",
+		  "copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 1,
+		  "time": "00:05:08",
+		  "title": "Climate Change Will Cost Us Even More Than We Think",
+		  "copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 2,
+		  "time": "00:05:08",
+		  "title": "Satellites show world’s glaciers melting faster than ever",
+		  "copy": "Glaciers are melting faster, losing 31 percent more snow and ice per year than they did 15 years earlier, according to three-dimensional satellite measurements of all the world’s mountain glaciers.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 3,
+		  "time": "00:05:08",
+		  "title": "The world wasted nearly 1 billion metric tons of food in 2019",
+		  "copy": "The world wasted about 931 million metric tons of food in 2019 — an average of 121 kilograms per person. That’s about 17 percent of all food that was available to consumers that year, a new United Nations report estimates.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 4,
+		  "time": "00:05:08",
+		  "title": "Global energy growth is outpacing decarbonization",
+		  "copy": "Recent reports have highlighted the challenge of keeping global average temperatures below 2 °C and - even more so -1.5 °C (IPCC 2018). Fossil-fuel burning and cement production release∼90% of all\r\nCO2 emissions from human activities.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 5,
+		  "time": "00:05:08",
+		  "title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		  "copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 6,
+		  "time": "00:05:08",
+		  "title": "Climate Change - by Chris Riedy",
+		  "copy": "In the period since the Industrial Revolution, human emissions of greenhouse gases from fossil fuel combustion, deforestation and agricultural practices have led to global warming and climate change.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 6,
+		  "time": "00:05:08",
+		  "title": "Climate Change - by Chris Riedy",
+		  "copy": "In the period since the Industrial Revolution, human emissions of greenhouse gases from fossil fuel combustion, deforestation and agricultural practices have led to global warming and climate change.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 7,
+		  "time": "00:05:08",
+		  "title": "Special Issue Introduction: Adding insult to injury: Climate change and theinequities of climate intervention",
+		  "copy": "Climate change is redistribution. It alters the timing and intensityof our rains and winds, the humidity in our soils, and the sea levelaround us",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		}
+	  ]
+	},
+	{
+	  "id": 34,
+	  "userId": 16,
+	  "total_time": "1",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "6-",
+		"political": "P-",
+		"complexity": "S-",
+		"type": "T-"
+	  },
+	  "stats": {
+		"numb_of_sources": 1,
+		"political_progressive": 1,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 0,
+		"form_medium": 0,
+		"form_complex": 1,
+		"content_simple": 1,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 1,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": "00:00:07",
+		"average_time": "00:00:07"
+	  },
+	  "watched": [
+		{
+		  "id": 6,
+		  "time": "00:05:08",
+		  "title": "Climate Change - by Chris Riedy",
+		  "copy": "In the period since the Industrial Revolution, human emissions of greenhouse gases from fossil fuel combustion, deforestation and agricultural practices have led to global warming and climate change.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		}
+	  ]
+	},
+	{
+	  "id": 45,
+	  "userId": 16,
+	  "total_time": "9",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "8-9-10-",
+		"political": "P-M-M-",
+		"complexity": "S-S-S-",
+		"type": "T-T-T-"
+	  },
+	  "stats": {
+		"numb_of_sources": 3,
+		"political_progressive": 1,
+		"political_conservative": 0,
+		"political_center": 2,
+		"form_simple": 0,
+		"form_medium": 2,
+		"form_complex": 1,
+		"content_simple": 3,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 3,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": "00:07:24",
+		"average_time": "00:02:28"
+	  },
+	  "watched": [
+		{
+		  "id": 8,
+		  "time": "00:05:08",
+		  "title": "Introduction: Consequences of Global Warming to Planetary and Human Health",
+		  "copy": "Global warming occurs from anthropogenic fossil-fuel burning, increasing greenhouse gases and causing Earth’s mean surface temperature to rise.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 9,
+		  "time": "00:05:08",
+		  "title": "A spike in Arctic lightning strikes may be linked to climate change",
+		  "copy": "Arctic lightning has gotten way more frequent over the last decade amid rising global temperatures, study finds",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 10,
+		  "time": "00:05:08",
+		  "title": "NASA: Global Warming",
+		  "copy": "Throughout its long history, Earth has warmed and cooled time and again. Climate has changed when the planet received more or less sunlight due to subtle shifts in its orbit, as the atmosphere or surface changed, or when the Sun’s energy varied. But in the past century, another force has started to influence Earth’s climate: humanity.",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		}
+	  ]
+	},
+	{
+	  "id": 46,
+	  "userId": 16,
+	  "total_time": "22",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "16-18-19-",
+		"political": "P-P-P-",
+		"complexity": "S-S-S-",
+		"type": "A-A-A-"
+	  },
+	  "stats": {
+		"numb_of_sources": 3,
+		"political_progressive": 3,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 3,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 3,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 0,
+		"type_audio": 3,
+		"total_time": "00:31:32",
+		"average_time": "00:10:30"
+	  },
+	  "watched": [
+		{
+		  "id": 16,
+		  "time": "00:05:08",
+		  "title": "Costing the Earth: Fields Paved with Gold",
+		  "copy": "Solar panels could be the latest get rich quick scheme for landowners. Or they could leave many investors out of pocket. Tom Heap asks if this solar gold rush is sustainable.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 18,
+		  "time": "00:05:08",
+		  "title": "Costing the Earth: How to Halve Emissions by 2030",
+		  "copy": "Ahead of the crucial COP26 climate conference in November, experts chart the route to halving global GHG emissions by 2030.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 19,
+		  "time": "00:05:08",
+		  "title": "Costing the Earth: Zero Carbon Britain",
+		  "copy": "The UK is one of the few advanced economies to commit to the idea of net zero carbon emissions by 2050. Tom Heap asks if we can achieve our ambitious goal.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		}
+	  ]
+	},
+	{
+	  "id": 47,
+	  "userId": 16,
+	  "total_time": "10",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "21-22-",
+		"political": "P-P-",
+		"complexity": "S-S-",
+		"type": "A-A-"
+	  },
+	  "stats": {
+		"numb_of_sources": 2,
+		"political_progressive": 2,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 2,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 2,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 0,
+		"type_audio": 2,
+		"total_time": "00:10:18",
+		"average_time": "00:05:09"
+	  },
+	  "watched": [
+		{
+		  "id": 21,
+		  "time": "00:05:08",
+		  "title": "Climate Change Is Not Our Fault",
+		  "copy": "It's time to change the way we talk about climate change.\r\n\r\nPolitical leaders have acknowledged human-driven (or \"anthropogenic\") global warming since 1964 (when President Lyndon Johnson mentioned it in a speech to Congress). Since then, however, we've done almost nothing to address its dangers.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 22,
+		  "time": "00:05:08",
+		  "title": "How to Save a Planet - Presenting: Science Vs",
+		  "copy": "We know that carbon dioxide is rising and we know that it’s warming the world, but how did scientists figure that out in the first place? And what will all this warming mean for our future? Our friends at the Gimlet podcast, Science Vs., visited a couple climate scientists to find out.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		}
+	  ]
+	},
+	{
+	  "id": 53,
+	  "userId": 16,
+	  "total_time": "29",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "24-25-23-",
+		"political": "M-M-P-",
+		"complexity": "M-M-S-",
+		"type": "V-V-A-"
+	  },
+	  "stats": {
+		"numb_of_sources": 3,
+		"political_progressive": 1,
+		"political_conservative": 0,
+		"political_center": 2,
+		"form_simple": 1,
+		"form_medium": 2,
+		"form_complex": 0,
+		"content_simple": 1,
+		"content_medium": 2,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 2,
+		"type_audio": 1,
+		"total_time": "00:32:58",
+		"average_time": "00:10:59"
+	  },
+	  "watched": [
+		{
+		  "id": 24,
+		  "time": "00:05:08",
+		  "title": "Climate Change: What Happens If The World Warms Up By 2°C?",
+		  "copy": "2 min (skynews) animation about the possible effects of a temperature increase of 2 degrees celsius",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 25,
+		  "time": "00:05:08",
+		  "title": "DON'T PANIC — Hans Rosling showing the facts about population",
+		  "copy": "58 min lecture by hans rosling about the distribution of population and population growth",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 23,
+		  "time": "00:05:08",
+		  "title": "Generation Green New Deal - Where Have Adults Been?",
+		  "copy": "Amy Westervelt of the DrillIed podcast co-hosts this episode as we delve into the question of why it's taken so much time, and a movement led by teenagers and 20-somethings, to push politicians to get serious about climate action.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Medium"
+		}
+	  ]
+	},
+	{
+	  "id": 56,
+	  "userId": 16,
+	  "total_time": "10",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "129-31-101-101-",
+		"political": "M-P-M-M-",
+		"complexity": "C-S-C-C-",
+		"type": "V-A-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 4,
+		"political_progressive": 1,
+		"political_conservative": 0,
+		"political_center": 3,
+		"form_simple": 0,
+		"form_medium": 0,
+		"form_complex": 4,
+		"content_simple": 1,
+		"content_medium": 0,
+		"content_complex": 3,
+		"type_text": 0,
+		"type_video": 3,
+		"type_audio": 1,
+		"total_time": "00:06:17",
+		"average_time": "00:01:34"
+	  },
+	  "watched": [
+		{
+		  "id": 129,
+		  "time": "00:05:08",
+		  "title": "Climate I: Is The Debate Over?",
+		  "copy": "52 min in depth debate between two climate change scientists (a skeptic and a supporter)",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Complex"
+		},
+		{
+		  "id": 31,
+		  "time": "00:05:08",
+		  "title": "Inherited - The Green New Dream",
+		  "copy": "Listen, 2020 has been rough. Between the pandemic, climate fires, police brutality, and the election, this year has felt like we’re hurtling down a highway to hell. But today, we’re taking an exit.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 101,
+		  "time": "00:05:08",
+		  "title": "The Maths of Climate Change",
+		  "copy": "59 min lecture on the mathematics behind the models that try to predict climate change",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Complex"
+		},
+		{
+		  "id": 101,
+		  "time": "00:05:08",
+		  "title": "The Maths of Climate Change",
+		  "copy": "59 min lecture on the mathematics behind the models that try to predict climate change",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Complex"
+		}
+	  ]
+	},
+	{
+	  "id": 57,
+	  "userId": 16,
+	  "total_time": "33",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "101-49-93-",
+		"political": "M-P-P-",
+		"complexity": "C-S-M-",
+		"type": "V-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 3,
+		"political_progressive": 2,
+		"political_conservative": 0,
+		"political_center": 1,
+		"form_simple": 0,
+		"form_medium": 2,
+		"form_complex": 1,
+		"content_simple": 1,
+		"content_medium": 1,
+		"content_complex": 1,
+		"type_text": 0,
+		"type_video": 3,
+		"type_audio": 0,
+		"total_time": "00:55:07",
+		"average_time": "00:18:22"
+	  },
+	  "watched": [
+		{
+		  "id": 101,
+		  "time": "00:05:08",
+		  "title": "The Maths of Climate Change",
+		  "copy": "59 min lecture on the mathematics behind the models that try to predict climate change",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Complex"
+		},
+		{
+		  "id": 49,
+		  "time": "00:05:08",
+		  "title": "How to Save Our Planet",
+		  "copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 93,
+		  "time": "00:05:08",
+		  "title": "How Amazon deforestation could push the climate to a 'tipping point'",
+		  "copy": "9 min (PBS) report on deforestation in the Brazilian Amazon due to agriculture and effects on climate",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		}
+	  ]
+	},
+	{
+	  "id": 59,
+	  "userId": 16,
+	  "total_time": "28",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "38-52-83-37-72-42-",
+		"political": "P-P-P-P-C-C-",
+		"complexity": "S-S-M-S-C-S-",
+		"type": "V-V-V-V-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 6,
+		"political_progressive": 4,
+		"political_conservative": 2,
+		"political_center": 0,
+		"form_simple": 1,
+		"form_medium": 2,
+		"form_complex": 3,
+		"content_simple": 4,
+		"content_medium": 1,
+		"content_complex": 1,
+		"type_text": 0,
+		"type_video": 6,
+		"type_audio": 0,
+		"total_time": "00:26:58",
+		"average_time": "00:04:29"
+	  },
+	  "watched": [
+		{
+		  "id": 38,
+		  "time": "00:05:08",
+		  "title": "Greta Thunberg to world leaders: 'How dare you? You have stolen my dreams and my childhood'",
+		  "copy": "4 min speech of greta thunberg at 2019 UN climate summit",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 52,
+		  "time": "00:05:08",
+		  "title": "Leonardo DiCaprio (UN Messenger of Peace) at the opening of Climate Summit 2014",
+		  "copy": "4 min (UN) speech by Leonardo DiCaprio arguing that the climate crisis is urgent and must be adressed",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 83,
+		  "time": "00:05:08",
+		  "title": "Climate Refugees: Nations under threat",
+		  "copy": "8 min (CBS) report on the island group of Kiribati and the effects climate change has on their life",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 37,
+		  "time": "00:05:08",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 72,
+		  "time": "00:05:08",
+		  "title": "Is Climate Change an Existential Threat?",
+		  "copy": "7 min (PragerU) animated video debunking the fact that fossil fuels are an existential threat to human life (+recommendation of nuclear energy)",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Simple"
+		},
+		{
+		  "id": 42,
+		  "time": "00:05:08",
+		  "title": "What Greta Thunberg does not understand about climate change | Jordan Peterson",
+		  "copy": "7 min speech in reaction to speech of greta thunberg by jordan peterson",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		}
+	  ]
+	}
+  ]
+}
+{"mode":"full","isActive":false}

@@ -1,0 +1,447 @@
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 9,
+	  "political_progressive": 6,
+	  "political_conservative": 2,
+	  "political_center": 1,
+	  "form_simple": 5,
+	  "form_medium": 1,
+	  "form_complex": 3,
+	  "content_simple": 7,
+	  "content_medium": 1,
+	  "content_complex": 1,
+	  "type_text": 3,
+	  "type_video": 5,
+	  "type_audio": 1,
+	  "total_time": "00:32:27",
+	  "average_time": "00:03:36"
+	},
+	"paths": {
+	  "resource": "18-1-46-57-96-41-42-92-37-",
+	  "political": "P-P-P-C-P-M-C-P-P-",
+	  "complexity": "S-S-S-S-M-S-S-C-S-",
+	  "type": "A-T-V-V-V-T-V-T-V-",
+	  "political_relative": [
+		{
+		  "P": 0
+		},
+		{
+		  "P": 0.3333333333333333
+		},
+		{
+		  "C": 0.3333333333333333
+		},
+		{
+		  "C": 0.4444444444444444
+		},
+		{
+		  "P": 0.4444444444444444
+		},
+		{
+		  "P": 0.5555555555555556
+		},
+		{
+		  "M": 0.5555555555555556
+		},
+		{
+		  "M": 0.6666666666666667
+		},
+		{
+		  "C": 0.6666666666666667
+		},
+		{
+		  "C": 0.7777777777777779
+		},
+		{
+		  "P": 0.7777777777777779
+		},
+		{
+		  "P": 1
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "S": 0
+		},
+		{
+		  "S": 0.4444444444444444
+		},
+		{
+		  "M": 0.4444444444444444
+		},
+		{
+		  "M": 0.5555555555555556
+		},
+		{
+		  "S": 0.5555555555555556
+		},
+		{
+		  "S": 0.7777777777777778
+		},
+		{
+		  "C": 0.7777777777777778
+		},
+		{
+		  "C": 0.8888888888888888
+		},
+		{
+		  "S": 0.8888888888888888
+		},
+		{
+		  "S": 1
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "A": 0
+		},
+		{
+		  "A": 0.1111111111111111
+		},
+		{
+		  "T": 0.1111111111111111
+		},
+		{
+		  "T": 0.2222222222222222
+		},
+		{
+		  "V": 0.2222222222222222
+		},
+		{
+		  "V": 0.5555555555555556
+		},
+		{
+		  "T": 0.5555555555555556
+		},
+		{
+		  "T": 0.6666666666666667
+		},
+		{
+		  "V": 0.6666666666666667
+		},
+		{
+		  "V": 0.7777777777777779
+		},
+		{
+		  "T": 0.7777777777777779
+		},
+		{
+		  "T": 0.8888888888888891
+		},
+		{
+		  "V": 0.8888888888888891
+		},
+		{
+		  "V": 1.0000000000000002
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": "00:00:39",
+	  "max_audio": "00:00:39",
+	  "avg_audio": "00:00:39",
+	  "min_video": "00:02:38",
+	  "max_video": "00:10:19",
+	  "avg_video": "00:05:34",
+	  "min_text": "00:00:20",
+	  "max_text": "00:02:29",
+	  "avg_text": "00:01:18"
+	},
+	"numb_sessions": 3,
+	"watched": [
+	  {
+		"id": 18,
+		"time": "00:00:39",
+		"title": "Costing the Earth: How to Halve Emissions by 2030",
+		"copy": "Ahead of the crucial COP26 climate conference in November, experts chart the route to halving global GHG emissions by 2030.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 1,
+		"time": "00:02:29",
+		"title": "Climate Change Will Cost Us Even More Than We Think",
+		"copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 46,
+		"time": "00:03:38",
+		"title": "Population growth and climate change explained by Hans Rosling",
+		"copy": "3 min instruction of how population and carbon emissions are distributed across countries",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 57,
+		"time": "00:04:05",
+		"title": "Environmentalist explains why renewable energy can't save the planet",
+		"copy": "4 min (FOX) interview with a environmental scientist about advantages of nuclear energy",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 96,
+		"time": "00:10:19",
+		"title": "Who Is Responsible For Climate Change? – Who Needs To Fix It?",
+		"copy": "10 min animation discussing the question of which countries should take responsibility for fixing climate change",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 41,
+		"time": "00:00:20",
+		"title": "The basics of Global Warming",
+		"copy": "The Sun serves as the primary energy source for Earth’s climate. Some of the incoming sunlight is reflected directly back into space, especially by bconservative surfaces such as ice and clouds, and the rest is absorbed by the surface and the atmosphere.",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 42,
+		"time": "00:07:12",
+		"title": "What Greta Thunberg does not understand about climate change | Jordan Peterson",
+		"copy": "7 min speech in reaction to speech of greta thunberg by jordan peterson",
+		"type": "video",
+		"political": "conservative",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 92,
+		"time": "00:01:07",
+		"title": "Reducing the forest footprint of Chinese soft-commodity financing",
+		"copy": "A new study ranks China second in financing commodities linked to tropical deforestation risk. Its financial institutions could do more before state regulations are perfected.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Complex",
+		"form": "Simple"
+	  },
+	  {
+		"id": 37,
+		"time": "00:02:38",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 48,
+	  "userId": 20,
+	  "total_time": "2",
+	  "user_agent": "Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36",
+	  "paths": {
+		"resource": "",
+		"political": "",
+		"complexity": "",
+		"type": ""
+	  },
+	  "stats": {
+		"numb_of_sources": 0,
+		"political_progressive": 0,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 0,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 0,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": 0,
+		"average_time": 0
+	  },
+	  "watched": []
+	},
+	{
+	  "id": 49,
+	  "userId": 20,
+	  "total_time": "1",
+	  "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36",
+	  "paths": {
+		"resource": "",
+		"political": "",
+		"complexity": "",
+		"type": ""
+	  },
+	  "stats": {
+		"numb_of_sources": 0,
+		"political_progressive": 0,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 0,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 0,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": 0,
+		"average_time": 0
+	  },
+	  "watched": []
+	},
+	{
+	  "id": 50,
+	  "userId": 20,
+	  "total_time": "41",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "18-1-46-57-96-41-42-92-37-",
+		"political": "P-P-P-C-P-M-C-P-P-",
+		"complexity": "S-S-S-S-M-S-S-C-S-",
+		"type": "A-T-V-V-V-T-V-T-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 9,
+		"political_progressive": 6,
+		"political_conservative": 2,
+		"political_center": 1,
+		"form_simple": 5,
+		"form_medium": 1,
+		"form_complex": 3,
+		"content_simple": 7,
+		"content_medium": 1,
+		"content_complex": 1,
+		"type_text": 3,
+		"type_video": 5,
+		"type_audio": 1,
+		"total_time": "00:32:27",
+		"average_time": "00:03:36"
+	  },
+	  "watched": [
+		{
+		  "id": 18,
+		  "time": "00:02:38",
+		  "title": "Costing the Earth: How to Halve Emissions by 2030",
+		  "copy": "Ahead of the crucial COP26 climate conference in November, experts chart the route to halving global GHG emissions by 2030.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 1,
+		  "time": "00:02:38",
+		  "title": "Climate Change Will Cost Us Even More Than We Think",
+		  "copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 46,
+		  "time": "00:02:38",
+		  "title": "Population growth and climate change explained by Hans Rosling",
+		  "copy": "3 min instruction of how population and carbon emissions are distributed across countries",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 57,
+		  "time": "00:02:38",
+		  "title": "Environmentalist explains why renewable energy can't save the planet",
+		  "copy": "4 min (FOX) interview with a environmental scientist about advantages of nuclear energy",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 96,
+		  "time": "00:02:38",
+		  "title": "Who Is Responsible For Climate Change? – Who Needs To Fix It?",
+		  "copy": "10 min animation discussing the question of which countries should take responsibility for fixing climate change",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 41,
+		  "time": "00:02:38",
+		  "title": "The basics of Global Warming",
+		  "copy": "The Sun serves as the primary energy source for Earth’s climate. Some of the incoming sunlight is reflected directly back into space, especially by bconservative surfaces such as ice and clouds, and the rest is absorbed by the surface and the atmosphere.",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 42,
+		  "time": "00:02:38",
+		  "title": "What Greta Thunberg does not understand about climate change | Jordan Peterson",
+		  "copy": "7 min speech in reaction to speech of greta thunberg by jordan peterson",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 92,
+		  "time": "00:02:38",
+		  "title": "Reducing the forest footprint of Chinese soft-commodity financing",
+		  "copy": "A new study ranks China second in financing commodities linked to tropical deforestation risk. Its financial institutions could do more before state regulations are perfected.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Complex",
+		  "form": "Simple"
+		},
+		{
+		  "id": 37,
+		  "time": "00:02:38",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		}
+	  ]
+	}
+  ]
+}
+{"mode":"full","isActive":false}

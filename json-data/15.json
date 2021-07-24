@@ -1,0 +1,742 @@
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 19,
+	  "political_progressive": 16,
+	  "political_conservative": 2,
+	  "political_center": 1,
+	  "form_simple": 8,
+	  "form_medium": 7,
+	  "form_complex": 4,
+	  "content_simple": 7,
+	  "content_medium": 7,
+	  "content_complex": 5,
+	  "type_text": 1,
+	  "type_video": 18,
+	  "type_audio": 0,
+	  "total_time": "02:18:31",
+	  "average_time": "00:07:17"
+	},
+	"paths": {
+	  "resource": "2-5-34-37-40-93-123-126-73-49-95-124-121-32-94-83-125-103-96-",
+	  "political": "P-P-P-P-M-P-P-P-C-P-P-P-P-P-P-P-P-C-P-",
+	  "complexity": "S-S-S-S-S-M-C-C-M-S-M-C-C-S-M-M-C-M-M-",
+	  "type": "T-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-",
+	  "political_relative": [
+		{
+		  "P": 0
+		},
+		{
+		  "P": 0.21052631578947367
+		},
+		{
+		  "M": 0.21052631578947367
+		},
+		{
+		  "M": 0.2631578947368421
+		},
+		{
+		  "P": 0.2631578947368421
+		},
+		{
+		  "P": 0.42105263157894735
+		},
+		{
+		  "C": 0.42105263157894735
+		},
+		{
+		  "C": 0.47368421052631576
+		},
+		{
+		  "P": 0.47368421052631576
+		},
+		{
+		  "P": 0.894736842105263
+		},
+		{
+		  "C": 0.894736842105263
+		},
+		{
+		  "C": 0.9473684210526314
+		},
+		{
+		  "P": 0.9473684210526314
+		},
+		{
+		  "P": 0.9999999999999998
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "S": 0
+		},
+		{
+		  "S": 0.2631578947368421
+		},
+		{
+		  "M": 0.2631578947368421
+		},
+		{
+		  "M": 0.3157894736842105
+		},
+		{
+		  "C": 0.3157894736842105
+		},
+		{
+		  "C": 0.42105263157894735
+		},
+		{
+		  "M": 0.42105263157894735
+		},
+		{
+		  "M": 0.47368421052631576
+		},
+		{
+		  "S": 0.47368421052631576
+		},
+		{
+		  "S": 0.5263157894736842
+		},
+		{
+		  "M": 0.5263157894736842
+		},
+		{
+		  "M": 0.5789473684210527
+		},
+		{
+		  "C": 0.5789473684210527
+		},
+		{
+		  "C": 0.6842105263157895
+		},
+		{
+		  "S": 0.6842105263157895
+		},
+		{
+		  "S": 0.736842105263158
+		},
+		{
+		  "M": 0.736842105263158
+		},
+		{
+		  "M": 0.8421052631578948
+		},
+		{
+		  "C": 0.8421052631578948
+		},
+		{
+		  "C": 0.8947368421052633
+		},
+		{
+		  "M": 0.8947368421052633
+		},
+		{
+		  "M": 1
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "T": 0
+		},
+		{
+		  "T": 0.05263157894736842
+		},
+		{
+		  "V": 0.05263157894736842
+		},
+		{
+		  "V": 1
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": 0,
+	  "max_audio": 0,
+	  "avg_audio": "00:00:00",
+	  "min_video": "00:01:57",
+	  "max_video": "00:13:34",
+	  "avg_video": "00:07:16",
+	  "min_text": "00:07:29",
+	  "max_text": "00:07:29",
+	  "avg_text": "00:07:29"
+	},
+	"numb_sessions": 5,
+	"watched": [
+	  {
+		"id": 2,
+		"time": "00:07:29",
+		"title": "Satellites show world’s glaciers melting faster than ever",
+		"copy": "Glaciers are melting faster, losing 31 percent more snow and ice per year than they did 15 years earlier, according to three-dimensional satellite measurements of all the world’s mountain glaciers.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 5,
+		"time": "00:06:05",
+		"title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		"copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 34,
+		"time": "00:04:11",
+		"title": "Vietnam: Climate change threatens rice production",
+		"copy": "4 min (UN) report on the effects of climate change on rice production in Vietnam farmlands",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 37,
+		"time": "00:03:49",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 40,
+		"time": "00:07:55",
+		"title": "Why Egypt's lifeline is drying up | Nile Conflict",
+		"copy": "8 min video report on Egypt and how the Nile is drying up, causing problems",
+		"type": "video",
+		"political": "center",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 93,
+		"time": "00:10:00",
+		"title": "How Amazon deforestation could push the climate to a 'tipping point'",
+		"copy": "9 min (PBS) report on deforestation in the Brazilian Amazon due to agriculture and effects on climate",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 123,
+		"time": "00:01:57",
+		"title": "Explainer: Climate refugees a focus at UN talks",
+		"copy": "2 min (Al Jazeera) report on future climate refugees",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Complex",
+		"form": "Medium"
+	  },
+	  {
+		"id": 126,
+		"time": "00:02:02",
+		"title": "Climate Change: What Happens If The World Warms Up By 4°C?",
+		"copy": "2 min (skynews) animation about the possible effects of a temperature rise of 4 degrees celsius",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact/belief",
+		"content": "Complex",
+		"form": "Simple"
+	  },
+	  {
+		"id": 73,
+		"time": "00:05:18",
+		"title": "Can Climate Models Predict Climate Change?",
+		"copy": "5 min animation on why climate change models fail to work",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Complex"
+	  },
+	  {
+		"id": 49,
+		"time": "00:08:40",
+		"title": "How to Save Our Planet",
+		"copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 95,
+		"time": "00:12:18",
+		"title": "How Africa is affected by climate change | DW News",
+		"copy": "12 min (DW) report on the impact of climate change on the african content, focussing on affected peoples",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact/belief",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 124,
+		"time": "00:06:33",
+		"title": "How could veganism change the world? | The Economist",
+		"copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Medium"
+	  },
+	  {
+		"id": 121,
+		"time": "00:08:55",
+		"title": "As global temperatures rise, humans at risk from weather extremes",
+		"copy": "8 min (CBS) interview about the possible risks of extreme weather that come with global temperature rise",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Complex"
+	  },
+	  {
+		"id": 32,
+		"time": "00:08:59",
+		"title": "The beautiful future of solar power | Marjan van Aubel",
+		"copy": "8 min (TED) talk on design possibilities for solar cells",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 94,
+		"time": "00:02:52",
+		"title": "Climate 101: Deforestation | National Geographic",
+		"copy": "3 min (NatGeo) animation on large scale deforestation across the globe, causes and effects",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 83,
+		"time": "00:08:11",
+		"title": "Climate Refugees: Nations under threat",
+		"copy": "8 min (CBS) report on the island group of Kiribati and the effects climate change has on their life",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 125,
+		"time": "00:08:53",
+		"title": "Why Meat is the Best Worst Thing in the World ",
+		"copy": "8 min animation on why meat is not an effective way to feed humans",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Simple"
+	  },
+	  {
+		"id": 103,
+		"time": "00:13:34",
+		"title": "Population Control Isn't the Answer to Climate Change. Capitalism Is.",
+		"copy": "13 min video essay critical about the problem of overpopulation, arguing that it can be solved by improving food production technologies",
+		"type": "video",
+		"political": "conservative",
+		"belief": "belief",
+		"content": "Medium",
+		"form": "Complex"
+	  },
+	  {
+		"id": 96,
+		"time": "00:10:50",
+		"title": "Who Is Responsible For Climate Change? – Who Needs To Fix It?",
+		"copy": "10 min animation discussing the question of which countries should take responsibility for fixing climate change",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 27,
+	  "userId": 15,
+	  "total_time": "28",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15",
+	  "paths": {
+		"resource": "2-",
+		"political": "P-",
+		"complexity": "S-",
+		"type": "T-"
+	  },
+	  "stats": {
+		"numb_of_sources": 1,
+		"political_progressive": 1,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 1,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 1,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 1,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": "00:07:29",
+		"average_time": "00:07:29"
+	  },
+	  "watched": [
+		{
+		  "id": 2,
+		  "time": "00:10:50",
+		  "title": "Satellites show world’s glaciers melting faster than ever",
+		  "copy": "Glaciers are melting faster, losing 31 percent more snow and ice per year than they did 15 years earlier, according to three-dimensional satellite measurements of all the world’s mountain glaciers.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		}
+	  ]
+	},
+	{
+	  "id": 28,
+	  "userId": 15,
+	  "total_time": "46",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15",
+	  "paths": {
+		"resource": "5-34-37-40-93-123-126-73-",
+		"political": "P-P-P-M-P-P-P-C-",
+		"complexity": "S-S-S-S-M-C-C-M-",
+		"type": "V-V-V-V-V-V-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 8,
+		"political_progressive": 6,
+		"political_conservative": 1,
+		"political_center": 1,
+		"form_simple": 3,
+		"form_medium": 3,
+		"form_complex": 2,
+		"content_simple": 4,
+		"content_medium": 2,
+		"content_complex": 2,
+		"type_text": 0,
+		"type_video": 8,
+		"type_audio": 0,
+		"total_time": "00:41:17",
+		"average_time": "00:05:09"
+	  },
+	  "watched": [
+		{
+		  "id": 5,
+		  "time": "00:10:50",
+		  "title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		  "copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 34,
+		  "time": "00:10:50",
+		  "title": "Vietnam: Climate change threatens rice production",
+		  "copy": "4 min (UN) report on the effects of climate change on rice production in Vietnam farmlands",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 37,
+		  "time": "00:10:50",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 40,
+		  "time": "00:10:50",
+		  "title": "Why Egypt's lifeline is drying up | Nile Conflict",
+		  "copy": "8 min video report on Egypt and how the Nile is drying up, causing problems",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 93,
+		  "time": "00:10:50",
+		  "title": "How Amazon deforestation could push the climate to a 'tipping point'",
+		  "copy": "9 min (PBS) report on deforestation in the Brazilian Amazon due to agriculture and effects on climate",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 123,
+		  "time": "00:10:50",
+		  "title": "Explainer: Climate refugees a focus at UN talks",
+		  "copy": "2 min (Al Jazeera) report on future climate refugees",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Complex",
+		  "form": "Medium"
+		},
+		{
+		  "id": 126,
+		  "time": "00:10:50",
+		  "title": "Climate Change: What Happens If The World Warms Up By 4°C?",
+		  "copy": "2 min (skynews) animation about the possible effects of a temperature rise of 4 degrees celsius",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact/belief",
+		  "content": "Complex",
+		  "form": "Simple"
+		},
+		{
+		  "id": 73,
+		  "time": "00:10:50",
+		  "title": "Can Climate Models Predict Climate Change?",
+		  "copy": "5 min animation on why climate change models fail to work",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Complex"
+		}
+	  ]
+	},
+	{
+	  "id": 35,
+	  "userId": 15,
+	  "total_time": "94",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15",
+	  "paths": {
+		"resource": "49-95-124-121-32-94-83-125-",
+		"political": "P-P-P-P-P-P-P-P-",
+		"complexity": "S-M-C-C-S-M-M-C-",
+		"type": "V-V-V-V-V-V-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 8,
+		"political_progressive": 8,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 3,
+		"form_medium": 4,
+		"form_complex": 1,
+		"content_simple": 2,
+		"content_medium": 3,
+		"content_complex": 3,
+		"type_text": 0,
+		"type_video": 8,
+		"type_audio": 0,
+		"total_time": "01:05:21",
+		"average_time": "00:08:10"
+	  },
+	  "watched": [
+		{
+		  "id": 49,
+		  "time": "00:10:50",
+		  "title": "How to Save Our Planet",
+		  "copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 95,
+		  "time": "00:10:50",
+		  "title": "How Africa is affected by climate change | DW News",
+		  "copy": "12 min (DW) report on the impact of climate change on the african content, focussing on affected peoples",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact/belief",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 124,
+		  "time": "00:10:50",
+		  "title": "How could veganism change the world? | The Economist",
+		  "copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Medium"
+		},
+		{
+		  "id": 121,
+		  "time": "00:10:50",
+		  "title": "As global temperatures rise, humans at risk from weather extremes",
+		  "copy": "8 min (CBS) interview about the possible risks of extreme weather that come with global temperature rise",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Complex"
+		},
+		{
+		  "id": 32,
+		  "time": "00:10:50",
+		  "title": "The beautiful future of solar power | Marjan van Aubel",
+		  "copy": "8 min (TED) talk on design possibilities for solar cells",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 94,
+		  "time": "00:10:50",
+		  "title": "Climate 101: Deforestation | National Geographic",
+		  "copy": "3 min (NatGeo) animation on large scale deforestation across the globe, causes and effects",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 83,
+		  "time": "00:10:50",
+		  "title": "Climate Refugees: Nations under threat",
+		  "copy": "8 min (CBS) report on the island group of Kiribati and the effects climate change has on their life",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 125,
+		  "time": "00:10:50",
+		  "title": "Why Meat is the Best Worst Thing in the World ",
+		  "copy": "8 min animation on why meat is not an effective way to feed humans",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Simple"
+		}
+	  ]
+	},
+	{
+	  "id": 42,
+	  "userId": 15,
+	  "total_time": "31",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15",
+	  "paths": {
+		"resource": "103-96-",
+		"political": "C-P-",
+		"complexity": "M-M-",
+		"type": "V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 2,
+		"political_progressive": 1,
+		"political_conservative": 1,
+		"political_center": 0,
+		"form_simple": 1,
+		"form_medium": 0,
+		"form_complex": 1,
+		"content_simple": 0,
+		"content_medium": 2,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 2,
+		"type_audio": 0,
+		"total_time": "00:24:24",
+		"average_time": "00:12:12"
+	  },
+	  "watched": [
+		{
+		  "id": 103,
+		  "time": "00:10:50",
+		  "title": "Population Control Isn't the Answer to Climate Change. Capitalism Is.",
+		  "copy": "13 min video essay critical about the problem of overpopulation, arguing that it can be solved by improving food production technologies",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "belief",
+		  "content": "Medium",
+		  "form": "Complex"
+		},
+		{
+		  "id": 96,
+		  "time": "00:10:50",
+		  "title": "Who Is Responsible For Climate Change? – Who Needs To Fix It?",
+		  "copy": "10 min animation discussing the question of which countries should take responsibility for fixing climate change",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		}
+	  ]
+	},
+	{
+	  "id": 43,
+	  "userId": 15,
+	  "total_time": "1",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15",
+	  "paths": {
+		"resource": "",
+		"political": "",
+		"complexity": "",
+		"type": ""
+	  },
+	  "stats": {
+		"numb_of_sources": 0,
+		"political_progressive": 0,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 0,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 0,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": 0,
+		"average_time": 0
+	  },
+	  "watched": []
+	}
+  ]
+}
+{"mode":"full","isActive":false}

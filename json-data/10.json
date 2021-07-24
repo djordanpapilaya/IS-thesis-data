@@ -1,0 +1,418 @@
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 9,
+	  "political_progressive": 7,
+	  "political_conservative": 0,
+	  "political_center": 2,
+	  "form_simple": 4,
+	  "form_medium": 4,
+	  "form_complex": 1,
+	  "content_simple": 4,
+	  "content_medium": 2,
+	  "content_complex": 3,
+	  "type_text": 1,
+	  "type_video": 7,
+	  "type_audio": 1,
+	  "total_time": "00:31:08",
+	  "average_time": "00:03:27"
+	},
+	"paths": {
+	  "resource": "38-49-47-125-16-32-95-129-130-",
+	  "political": "P-P-P-P-P-P-P-M-M-",
+	  "complexity": "S-S-M-C-S-S-M-C-C-",
+	  "type": "V-V-T-V-A-V-V-V-V-",
+	  "political_relative": [
+		{
+		  "P": 0
+		},
+		{
+		  "P": 0.7777777777777778
+		},
+		{
+		  "M": 0.7777777777777778
+		},
+		{
+		  "M": 1
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "S": 0
+		},
+		{
+		  "S": 0.2222222222222222
+		},
+		{
+		  "M": 0.2222222222222222
+		},
+		{
+		  "M": 0.3333333333333333
+		},
+		{
+		  "C": 0.3333333333333333
+		},
+		{
+		  "C": 0.4444444444444444
+		},
+		{
+		  "S": 0.4444444444444444
+		},
+		{
+		  "S": 0.6666666666666666
+		},
+		{
+		  "M": 0.6666666666666666
+		},
+		{
+		  "M": 0.7777777777777777
+		},
+		{
+		  "C": 0.7777777777777777
+		},
+		{
+		  "C": 0.9999999999999999
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "V": 0
+		},
+		{
+		  "V": 0.2222222222222222
+		},
+		{
+		  "T": 0.2222222222222222
+		},
+		{
+		  "T": 0.3333333333333333
+		},
+		{
+		  "V": 0.3333333333333333
+		},
+		{
+		  "V": 0.4444444444444444
+		},
+		{
+		  "A": 0.4444444444444444
+		},
+		{
+		  "A": 0.5555555555555556
+		},
+		{
+		  "V": 0.5555555555555556
+		},
+		{
+		  "V": 1
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": "00:02:36",
+	  "max_audio": "00:02:36",
+	  "avg_audio": "00:02:36",
+	  "min_video": "00:00:10",
+	  "max_video": "00:09:59",
+	  "avg_video": "00:04:01",
+	  "min_text": "00:00:24",
+	  "max_text": "00:00:24",
+	  "avg_text": "00:00:24"
+	},
+	"numb_sessions": 3,
+	"watched": [
+	  {
+		"id": 38,
+		"time": "00:01:34",
+		"title": "Greta Thunberg to world leaders: 'How dare you? You have stolen my dreams and my childhood'",
+		"copy": "4 min speech of greta thunberg at 2019 UN climate summit",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 49,
+		"time": "00:05:47",
+		"title": "How to Save Our Planet",
+		"copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 47,
+		"time": "00:00:24",
+		"title": "Delivering success at the Leaders’ Summit on Climate",
+		"copy": "The summit could stoke a collective sense that finally – after decades of negotiations – this is the pivotal year for climate. The US is back at the climate table, and the Biden-Harris Administration is making climate action a center organising principle of its government.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 125,
+		"time": "00:01:45",
+		"title": "Why Meat is the Best Worst Thing in the World ",
+		"copy": "8 min animation on why meat is not an effective way to feed humans",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Simple"
+	  },
+	  {
+		"id": 16,
+		"time": "00:02:36",
+		"title": "Costing the Earth: Fields Paved with Gold",
+		"copy": "Solar panels could be the latest get rich quick scheme for landowners. Or they could leave many investors out of pocket. Tom Heap asks if this solar gold rush is sustainable.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 32,
+		"time": "00:00:10",
+		"title": "The beautiful future of solar power | Marjan van Aubel",
+		"copy": "8 min (TED) talk on design possibilities for solar cells",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 95,
+		"time": "00:03:02",
+		"title": "How Africa is affected by climate change | DW News",
+		"copy": "12 min (DW) report on the impact of climate change on the african content, focussing on affected peoples",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact/belief",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 129,
+		"time": "00:05:51",
+		"title": "Climate I: Is The Debate Over?",
+		"copy": "52 min in depth debate between two climate change scientists (a skeptic and a supporter)",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Complex"
+	  },
+	  {
+		"id": 130,
+		"time": "00:09:59",
+		"title": "Climate change: the trouble with trees | The Economist",
+		"copy": "10 min (economist) video essay that explores the problems of monoculture tree plantations",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Medium"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 21,
+	  "userId": 10,
+	  "total_time": "33",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0",
+	  "paths": {
+		"resource": "38-49-47-125-16-32-",
+		"political": "P-P-P-P-P-P-",
+		"complexity": "S-S-M-C-S-S-",
+		"type": "V-V-T-V-A-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 6,
+		"political_progressive": 6,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 3,
+		"form_medium": 3,
+		"form_complex": 0,
+		"content_simple": 4,
+		"content_medium": 1,
+		"content_complex": 1,
+		"type_text": 1,
+		"type_video": 4,
+		"type_audio": 1,
+		"total_time": "00:12:16",
+		"average_time": "00:02:02"
+	  },
+	  "watched": [
+		{
+		  "id": 38,
+		  "time": "00:09:59",
+		  "title": "Greta Thunberg to world leaders: 'How dare you? You have stolen my dreams and my childhood'",
+		  "copy": "4 min speech of greta thunberg at 2019 UN climate summit",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 49,
+		  "time": "00:09:59",
+		  "title": "How to Save Our Planet",
+		  "copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 47,
+		  "time": "00:09:59",
+		  "title": "Delivering success at the Leaders’ Summit on Climate",
+		  "copy": "The summit could stoke a collective sense that finally – after decades of negotiations – this is the pivotal year for climate. The US is back at the climate table, and the Biden-Harris Administration is making climate action a center organising principle of its government.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 125,
+		  "time": "00:09:59",
+		  "title": "Why Meat is the Best Worst Thing in the World ",
+		  "copy": "8 min animation on why meat is not an effective way to feed humans",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Simple"
+		},
+		{
+		  "id": 16,
+		  "time": "00:09:59",
+		  "title": "Costing the Earth: Fields Paved with Gold",
+		  "copy": "Solar panels could be the latest get rich quick scheme for landowners. Or they could leave many investors out of pocket. Tom Heap asks if this solar gold rush is sustainable.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 32,
+		  "time": "00:09:59",
+		  "title": "The beautiful future of solar power | Marjan van Aubel",
+		  "copy": "8 min (TED) talk on design possibilities for solar cells",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		}
+	  ]
+	},
+	{
+	  "id": 39,
+	  "userId": 10,
+	  "total_time": "20",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0",
+	  "paths": {
+		"resource": "95-129-130-",
+		"political": "P-M-M-",
+		"complexity": "M-C-C-",
+		"type": "V-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 3,
+		"political_progressive": 1,
+		"political_conservative": 0,
+		"political_center": 2,
+		"form_simple": 1,
+		"form_medium": 1,
+		"form_complex": 1,
+		"content_simple": 0,
+		"content_medium": 1,
+		"content_complex": 2,
+		"type_text": 0,
+		"type_video": 3,
+		"type_audio": 0,
+		"total_time": "00:18:52",
+		"average_time": "00:06:17"
+	  },
+	  "watched": [
+		{
+		  "id": 95,
+		  "time": "00:09:59",
+		  "title": "How Africa is affected by climate change | DW News",
+		  "copy": "12 min (DW) report on the impact of climate change on the african content, focussing on affected peoples",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact/belief",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 129,
+		  "time": "00:09:59",
+		  "title": "Climate I: Is The Debate Over?",
+		  "copy": "52 min in depth debate between two climate change scientists (a skeptic and a supporter)",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Complex"
+		},
+		{
+		  "id": 130,
+		  "time": "00:09:59",
+		  "title": "Climate change: the trouble with trees | The Economist",
+		  "copy": "10 min (economist) video essay that explores the problems of monoculture tree plantations",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Medium"
+		}
+	  ]
+	},
+	{
+	  "id": 40,
+	  "userId": 10,
+	  "total_time": "5",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0",
+	  "paths": {
+		"resource": "",
+		"political": "",
+		"complexity": "",
+		"type": ""
+	  },
+	  "stats": {
+		"numb_of_sources": 0,
+		"political_progressive": 0,
+		"political_conservative": 0,
+		"political_center": 0,
+		"form_simple": 0,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 0,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 0,
+		"type_video": 0,
+		"type_audio": 0,
+		"total_time": 0,
+		"average_time": 0
+	  },
+	  "watched": []
+	}
+  ]
+}
+{"mode":"full","isActive":false}

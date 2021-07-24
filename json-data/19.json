@@ -1,0 +1,480 @@
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 11,
+	  "political_progressive": 6,
+	  "political_conservative": 4,
+	  "political_center": 1,
+	  "form_simple": 5,
+	  "form_medium": 4,
+	  "form_complex": 2,
+	  "content_simple": 4,
+	  "content_medium": 5,
+	  "content_complex": 2,
+	  "type_text": 3,
+	  "type_video": 7,
+	  "type_audio": 1,
+	  "total_time": "00:50:44",
+	  "average_time": "00:04:36"
+	},
+	"paths": {
+	  "resource": "84-37-105-105-135-3-5-13-83-124-127-",
+	  "political": "M-P-C-C-C-P-P-C-P-P-P-",
+	  "complexity": "M-S-M-M-C-S-S-S-M-C-M-",
+	  "type": "T-V-V-V-V-T-V-T-V-V-A-",
+	  "political_relative": [
+		{
+		  "M": 0
+		},
+		{
+		  "M": 0.09090909090909091
+		},
+		{
+		  "P": 0.09090909090909091
+		},
+		{
+		  "P": 0.18181818181818182
+		},
+		{
+		  "C": 0.18181818181818182
+		},
+		{
+		  "C": 0.45454545454545453
+		},
+		{
+		  "P": 0.45454545454545453
+		},
+		{
+		  "P": 0.6363636363636364
+		},
+		{
+		  "C": 0.6363636363636364
+		},
+		{
+		  "C": 0.7272727272727273
+		},
+		{
+		  "P": 0.7272727272727273
+		},
+		{
+		  "P": 1
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "M": 0
+		},
+		{
+		  "M": 0.09090909090909091
+		},
+		{
+		  "S": 0.09090909090909091
+		},
+		{
+		  "S": 0.18181818181818182
+		},
+		{
+		  "M": 0.18181818181818182
+		},
+		{
+		  "M": 0.36363636363636365
+		},
+		{
+		  "C": 0.36363636363636365
+		},
+		{
+		  "C": 0.4545454545454546
+		},
+		{
+		  "S": 0.4545454545454546
+		},
+		{
+		  "S": 0.7272727272727273
+		},
+		{
+		  "M": 0.7272727272727273
+		},
+		{
+		  "M": 0.8181818181818182
+		},
+		{
+		  "C": 0.8181818181818182
+		},
+		{
+		  "C": 0.9090909090909092
+		},
+		{
+		  "M": 0.9090909090909092
+		},
+		{
+		  "M": 1
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "T": 0
+		},
+		{
+		  "T": 0.09090909090909091
+		},
+		{
+		  "V": 0.09090909090909091
+		},
+		{
+		  "V": 0.4545454545454546
+		},
+		{
+		  "T": 0.4545454545454546
+		},
+		{
+		  "T": 0.5454545454545455
+		},
+		{
+		  "V": 0.5454545454545455
+		},
+		{
+		  "V": 0.6363636363636365
+		},
+		{
+		  "T": 0.6363636363636365
+		},
+		{
+		  "T": 0.7272727272727274
+		},
+		{
+		  "V": 0.7272727272727274
+		},
+		{
+		  "V": 0.9090909090909092
+		},
+		{
+		  "A": 0.9090909090909092
+		},
+		{
+		  "A": 1
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": "00:12:58",
+	  "max_audio": "00:12:58",
+	  "avg_audio": "00:12:58",
+	  "min_video": "00:01:21",
+	  "max_video": "00:09:09",
+	  "avg_video": "00:04:40",
+	  "min_text": "00:01:22",
+	  "max_text": "00:01:57",
+	  "avg_text": "00:01:41"
+	},
+	"numb_sessions": 2,
+	"watched": [
+	  {
+		"id": 84,
+		"time": "00:01:22",
+		"title": "Presumed Effects of “Fake News” on the Global Warming Discussion in a Cross-Cultural Context",
+		"copy": "“Fake news” on global warming is widely disseminated via social and partisan media. Scientists worry about its effect, because fake news may hurt public support and change policy on climate change. The current study tested the roles of cultural constructs (individualism, collectivism, and uncertainty-avoidance) in predicting the presumed effect of fake news on global warming",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Complex"
+	  },
+	  {
+		"id": 37,
+		"time": "00:04:31",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 105,
+		"time": "00:01:21",
+		"title": "Eating less Meat won't save the Planet. Here's Why",
+		"copy": "24 min video essay on why the effects of meat consumption on climate change are overestimated",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 105,
+		"time": "00:03:21",
+		"title": "Eating less Meat won't save the Planet. Here's Why",
+		"copy": "24 min video essay on why the effects of meat consumption on climate change are overestimated",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 135,
+		"time": "00:01:27",
+		"title": "Bjorn Lomborg | Don't waste trillions on BAD Climate Policy",
+		"copy": "81 min lecture on the impact of climate change policies",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Medium"
+	  },
+	  {
+		"id": 3,
+		"time": "00:01:57",
+		"title": "The world wasted nearly 1 billion metric tons of food in 2019",
+		"copy": "The world wasted about 931 million metric tons of food in 2019 — an average of 121 kilograms per person. That’s about 17 percent of all food that was available to consumers that year, a new United Nations report estimates.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 5,
+		"time": "00:06:01",
+		"title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		"copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 13,
+		"time": "00:01:45",
+		"title": "Global warming is a problem, but so are climate doomsayers",
+		"copy": "OPINION. Bjorn Lomborg, a visiting professor at the Copenhagen Business School. Most people on the planet wake up each day thinking that things are getting worse. It is little wonder, given what they routinely read in the newspaper or see on television. But this gloomy mood is a problem, because it feeds into scare stories about how climate change will end in Armageddon.",
+		"type": "text",
+		"political": "conservative",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 83,
+		"time": "00:06:52",
+		"title": "Climate Refugees: Nations under threat",
+		"copy": "8 min (CBS) report on the island group of Kiribati and the effects climate change has on their life",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 124,
+		"time": "00:09:09",
+		"title": "How could veganism change the world? | The Economist",
+		"copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Medium"
+	  },
+	  {
+		"id": 127,
+		"time": "00:12:58",
+		"title": "Science Friday - How The Fashion Industry Is Responding To Climate Change",
+		"copy": "If there’s one industry out there that knows something about trends, it’s the fashion industry. Long known for churning out cheap garments and burning through resources, some fashion labels like fast fashion giant H&M are now embracing sustainable fashion trends.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 44,
+	  "userId": 19,
+	  "total_time": "16",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "84-37-105-105-",
+		"political": "M-P-C-C-",
+		"complexity": "M-S-M-M-",
+		"type": "T-V-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 4,
+		"political_progressive": 1,
+		"political_conservative": 2,
+		"political_center": 1,
+		"form_simple": 2,
+		"form_medium": 0,
+		"form_complex": 2,
+		"content_simple": 1,
+		"content_medium": 3,
+		"content_complex": 0,
+		"type_text": 1,
+		"type_video": 3,
+		"type_audio": 0,
+		"total_time": "00:10:35",
+		"average_time": "00:02:38"
+	  },
+	  "watched": [
+		{
+		  "id": 84,
+		  "time": "00:12:58",
+		  "title": "Presumed Effects of “Fake News” on the Global Warming Discussion in a Cross-Cultural Context",
+		  "copy": "“Fake news” on global warming is widely disseminated via social and partisan media. Scientists worry about its effect, because fake news may hurt public support and change policy on climate change. The current study tested the roles of cultural constructs (individualism, collectivism, and uncertainty-avoidance) in predicting the presumed effect of fake news on global warming",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Complex"
+		},
+		{
+		  "id": 37,
+		  "time": "00:12:58",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 105,
+		  "time": "00:12:58",
+		  "title": "Eating less Meat won't save the Planet. Here's Why",
+		  "copy": "24 min video essay on why the effects of meat consumption on climate change are overestimated",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 105,
+		  "time": "00:12:58",
+		  "title": "Eating less Meat won't save the Planet. Here's Why",
+		  "copy": "24 min video essay on why the effects of meat consumption on climate change are overestimated",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		}
+	  ]
+	},
+	{
+	  "id": 78,
+	  "userId": 19,
+	  "total_time": "46",
+	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "135-3-5-13-83-124-127-",
+		"political": "C-P-P-C-P-P-P-",
+		"complexity": "C-S-S-S-M-C-M-",
+		"type": "V-T-V-T-V-V-A-"
+	  },
+	  "stats": {
+		"numb_of_sources": 7,
+		"political_progressive": 5,
+		"political_conservative": 2,
+		"political_center": 0,
+		"form_simple": 3,
+		"form_medium": 4,
+		"form_complex": 0,
+		"content_simple": 3,
+		"content_medium": 2,
+		"content_complex": 2,
+		"type_text": 2,
+		"type_video": 4,
+		"type_audio": 1,
+		"total_time": "00:40:09",
+		"average_time": "00:05:44"
+	  },
+	  "watched": [
+		{
+		  "id": 135,
+		  "time": "00:12:58",
+		  "title": "Bjorn Lomborg | Don't waste trillions on BAD Climate Policy",
+		  "copy": "81 min lecture on the impact of climate change policies",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Medium"
+		},
+		{
+		  "id": 3,
+		  "time": "00:12:58",
+		  "title": "The world wasted nearly 1 billion metric tons of food in 2019",
+		  "copy": "The world wasted about 931 million metric tons of food in 2019 — an average of 121 kilograms per person. That’s about 17 percent of all food that was available to consumers that year, a new United Nations report estimates.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 5,
+		  "time": "00:12:58",
+		  "title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		  "copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 13,
+		  "time": "00:12:58",
+		  "title": "Global warming is a problem, but so are climate doomsayers",
+		  "copy": "OPINION. Bjorn Lomborg, a visiting professor at the Copenhagen Business School. Most people on the planet wake up each day thinking that things are getting worse. It is little wonder, given what they routinely read in the newspaper or see on television. But this gloomy mood is a problem, because it feeds into scare stories about how climate change will end in Armageddon.",
+		  "type": "text",
+		  "political": "conservative",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 83,
+		  "time": "00:12:58",
+		  "title": "Climate Refugees: Nations under threat",
+		  "copy": "8 min (CBS) report on the island group of Kiribati and the effects climate change has on their life",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 124,
+		  "time": "00:12:58",
+		  "title": "How could veganism change the world? | The Economist",
+		  "copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Medium"
+		},
+		{
+		  "id": 127,
+		  "time": "00:12:58",
+		  "title": "Science Friday - How The Fashion Industry Is Responding To Climate Change",
+		  "copy": "If there’s one industry out there that knows something about trends, it’s the fashion industry. Long known for churning out cheap garments and burning through resources, some fashion labels like fast fashion giant H&M are now embracing sustainable fashion trends.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		}
+	  ]
+	}
+  ]
+}
+{"mode":"full","isActive":false}

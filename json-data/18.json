@@ -1,0 +1,484 @@
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 12,
+	  "political_progressive": 6,
+	  "political_conservative": 3,
+	  "political_center": 3,
+	  "form_simple": 8,
+	  "form_medium": 3,
+	  "form_complex": 1,
+	  "content_simple": 10,
+	  "content_medium": 2,
+	  "content_complex": 0,
+	  "type_text": 2,
+	  "type_video": 8,
+	  "type_audio": 2,
+	  "total_time": "01:35:05",
+	  "average_time": "00:07:55"
+	},
+	"paths": {
+	  "resource": "1-16-40-5-8-23-24-43-45-49-56-104-",
+	  "political": "P-P-M-P-P-P-M-C-C-P-M-C-",
+	  "complexity": "S-S-S-S-S-S-M-S-S-S-S-M-",
+	  "type": "T-A-V-V-T-A-V-V-V-V-V-V-",
+	  "political_relative": [
+		{
+		  "P": 0
+		},
+		{
+		  "P": 0.16666666666666666
+		},
+		{
+		  "M": 0.16666666666666666
+		},
+		{
+		  "M": 0.25
+		},
+		{
+		  "P": 0.25
+		},
+		{
+		  "P": 0.5
+		},
+		{
+		  "M": 0.5
+		},
+		{
+		  "M": 0.5833333333333334
+		},
+		{
+		  "C": 0.5833333333333334
+		},
+		{
+		  "C": 0.75
+		},
+		{
+		  "P": 0.75
+		},
+		{
+		  "P": 0.8333333333333334
+		},
+		{
+		  "M": 0.8333333333333334
+		},
+		{
+		  "M": 0.9166666666666667
+		},
+		{
+		  "C": 0.9166666666666667
+		},
+		{
+		  "C": 1
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "S": 0
+		},
+		{
+		  "S": 0.5
+		},
+		{
+		  "M": 0.5
+		},
+		{
+		  "M": 0.5833333333333334
+		},
+		{
+		  "S": 0.5833333333333334
+		},
+		{
+		  "S": 0.9166666666666667
+		},
+		{
+		  "M": 0.9166666666666667
+		},
+		{
+		  "M": 1
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "T": 0
+		},
+		{
+		  "T": 0.08333333333333333
+		},
+		{
+		  "A": 0.08333333333333333
+		},
+		{
+		  "A": 0.16666666666666666
+		},
+		{
+		  "V": 0.16666666666666666
+		},
+		{
+		  "V": 0.3333333333333333
+		},
+		{
+		  "T": 0.3333333333333333
+		},
+		{
+		  "T": 0.41666666666666663
+		},
+		{
+		  "A": 0.41666666666666663
+		},
+		{
+		  "A": 0.49999999999999994
+		},
+		{
+		  "V": 0.49999999999999994
+		},
+		{
+		  "V": 1
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": "00:02:13",
+	  "max_audio": "00:43:34",
+	  "avg_audio": "00:22:53",
+	  "min_video": "00:00:13",
+	  "max_video": "00:11:03",
+	  "avg_video": "00:05:52",
+	  "min_text": "00:00:13",
+	  "max_text": "00:02:08",
+	  "avg_text": "00:01:10"
+	},
+	"numb_sessions": 2,
+	"watched": [
+	  {
+		"id": 1,
+		"time": "00:00:13",
+		"title": "Climate Change Will Cost Us Even More Than We Think",
+		"copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 16,
+		"time": "00:02:13",
+		"title": "Costing the Earth: Fields Paved with Gold",
+		"copy": "Solar panels could be the latest get rich quick scheme for landowners. Or they could leave many investors out of pocket. Tom Heap asks if this solar gold rush is sustainable.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 40,
+		"time": "00:00:13",
+		"title": "Why Egypt's lifeline is drying up | Nile Conflict",
+		"copy": "8 min video report on Egypt and how the Nile is drying up, causing problems",
+		"type": "video",
+		"political": "center",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 5,
+		"time": "00:05:05",
+		"title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		"copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 8,
+		"time": "00:02:08",
+		"title": "Introduction: Consequences of Global Warming to Planetary and Human Health",
+		"copy": "Global warming occurs from anthropogenic fossil-fuel burning, increasing greenhouse gases and causing Earth’s mean surface temperature to rise.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 23,
+		"time": "00:43:34",
+		"title": "Generation Green New Deal - Where Have Adults Been?",
+		"copy": "Amy Westervelt of the DrillIed podcast co-hosts this episode as we delve into the question of why it's taken so much time, and a movement led by teenagers and 20-somethings, to push politicians to get serious about climate action.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 24,
+		"time": "00:11:03",
+		"title": "Climate Change: What Happens If The World Warms Up By 2°C?",
+		"copy": "2 min (skynews) animation about the possible effects of a temperature increase of 2 degrees celsius",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 43,
+		"time": "00:03:08",
+		"title": "Do 97% of scientists actually agree on climate change?",
+		"copy": "3 min (OAN) interview with climate change skeptics, arguing that not all scientists argee and that consensus may not be correct",
+		"type": "video",
+		"political": "conservative",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 45,
+		"time": "00:05:50",
+		"title": "Climate Change: What Do Scientists Say?",
+		"copy": "5 min (PragerU) video of a climate skeptic scientist giving his views on the debate of climate change",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 49,
+		"time": "00:08:20",
+		"title": "How to Save Our Planet",
+		"copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 56,
+		"time": "00:03:20",
+		"title": "Our Forests | Timelapse in Google Earth",
+		"copy": "3 min sattelite  timelapses of deforestation across the globe",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 104,
+		"time": "00:09:58",
+		"title": "Cows and Climate - Introduction",
+		"copy": "5 min video essay that tries to pu the contribution of lifestock to greenhouse gasses in perspective",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 41,
+	  "userId": 18,
+	  "total_time": "6",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "1-16-40-",
+		"political": "P-P-M-",
+		"complexity": "S-S-S-",
+		"type": "T-A-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 3,
+		"political_progressive": 2,
+		"political_conservative": 0,
+		"political_center": 1,
+		"form_simple": 3,
+		"form_medium": 0,
+		"form_complex": 0,
+		"content_simple": 3,
+		"content_medium": 0,
+		"content_complex": 0,
+		"type_text": 1,
+		"type_video": 1,
+		"type_audio": 1,
+		"total_time": "00:02:39",
+		"average_time": "00:00:53"
+	  },
+	  "watched": [
+		{
+		  "id": 1,
+		  "time": "00:09:58",
+		  "title": "Climate Change Will Cost Us Even More Than We Think",
+		  "copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 16,
+		  "time": "00:09:58",
+		  "title": "Costing the Earth: Fields Paved with Gold",
+		  "copy": "Solar panels could be the latest get rich quick scheme for landowners. Or they could leave many investors out of pocket. Tom Heap asks if this solar gold rush is sustainable.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 40,
+		  "time": "00:09:58",
+		  "title": "Why Egypt's lifeline is drying up | Nile Conflict",
+		  "copy": "8 min video report on Egypt and how the Nile is drying up, causing problems",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		}
+	  ]
+	},
+	{
+	  "id": 52,
+	  "userId": 18,
+	  "total_time": "68",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+	  "paths": {
+		"resource": "5-8-23-24-43-45-49-56-104-",
+		"political": "P-P-P-M-C-C-P-M-C-",
+		"complexity": "S-S-S-M-S-S-S-S-M-",
+		"type": "V-T-A-V-V-V-V-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 9,
+		"political_progressive": 4,
+		"political_conservative": 3,
+		"political_center": 2,
+		"form_simple": 5,
+		"form_medium": 3,
+		"form_complex": 1,
+		"content_simple": 7,
+		"content_medium": 2,
+		"content_complex": 0,
+		"type_text": 1,
+		"type_video": 7,
+		"type_audio": 1,
+		"total_time": "01:32:26",
+		"average_time": "00:10:16"
+	  },
+	  "watched": [
+		{
+		  "id": 5,
+		  "time": "00:09:58",
+		  "title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		  "copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 8,
+		  "time": "00:09:58",
+		  "title": "Introduction: Consequences of Global Warming to Planetary and Human Health",
+		  "copy": "Global warming occurs from anthropogenic fossil-fuel burning, increasing greenhouse gases and causing Earth’s mean surface temperature to rise.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 23,
+		  "time": "00:09:58",
+		  "title": "Generation Green New Deal - Where Have Adults Been?",
+		  "copy": "Amy Westervelt of the DrillIed podcast co-hosts this episode as we delve into the question of why it's taken so much time, and a movement led by teenagers and 20-somethings, to push politicians to get serious about climate action.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 24,
+		  "time": "00:09:58",
+		  "title": "Climate Change: What Happens If The World Warms Up By 2°C?",
+		  "copy": "2 min (skynews) animation about the possible effects of a temperature increase of 2 degrees celsius",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		},
+		{
+		  "id": 43,
+		  "time": "00:09:58",
+		  "title": "Do 97% of scientists actually agree on climate change?",
+		  "copy": "3 min (OAN) interview with climate change skeptics, arguing that not all scientists argee and that consensus may not be correct",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 45,
+		  "time": "00:09:58",
+		  "title": "Climate Change: What Do Scientists Say?",
+		  "copy": "5 min (PragerU) video of a climate skeptic scientist giving his views on the debate of climate change",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 49,
+		  "time": "00:09:58",
+		  "title": "How to Save Our Planet",
+		  "copy": "8 min (WWF) video essay arguing that biodiversity is essential to create a stable climate for humans",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 56,
+		  "time": "00:09:58",
+		  "title": "Our Forests | Timelapse in Google Earth",
+		  "copy": "3 min sattelite  timelapses of deforestation across the globe",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 104,
+		  "time": "00:09:58",
+		  "title": "Cows and Climate - Introduction",
+		  "copy": "5 min video essay that tries to pu the contribution of lifestock to greenhouse gasses in perspective",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		}
+	  ]
+	}
+  ]
+}
+{"mode":"full","isActive":false}

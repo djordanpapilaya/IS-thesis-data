@@ -1,0 +1,772 @@
+{
+  "all": {
+	"stats": {
+	  "numb_of_sources": 21,
+	  "political_progressive": 11,
+	  "political_conservative": 5,
+	  "political_center": 5,
+	  "form_simple": 10,
+	  "form_medium": 9,
+	  "form_complex": 2,
+	  "content_simple": 14,
+	  "content_medium": 4,
+	  "content_complex": 3,
+	  "type_text": 11,
+	  "type_video": 8,
+	  "type_audio": 2,
+	  "total_time": "01:03:06",
+	  "average_time": "00:03:00"
+	},
+	"paths": {
+	  "resource": "1-5-10-11-6-13-18-25-32-41-14-43-45-53-60-22-37-55-97-124-125-",
+	  "political": "P-P-M-M-P-C-P-M-P-M-C-C-C-P-C-P-P-M-P-P-P-",
+	  "complexity": "S-S-S-S-S-S-S-M-S-S-S-S-S-M-M-S-S-M-C-C-C-",
+	  "type": "T-V-T-T-T-T-A-V-V-T-T-V-V-T-T-A-V-T-T-V-V-",
+	  "political_relative": [
+		{
+		  "P": 0
+		},
+		{
+		  "P": 0.09523809523809523
+		},
+		{
+		  "M": 0.09523809523809523
+		},
+		{
+		  "M": 0.19047619047619047
+		},
+		{
+		  "P": 0.19047619047619047
+		},
+		{
+		  "P": 0.23809523809523808
+		},
+		{
+		  "C": 0.23809523809523808
+		},
+		{
+		  "C": 0.2857142857142857
+		},
+		{
+		  "P": 0.2857142857142857
+		},
+		{
+		  "P": 0.3333333333333333
+		},
+		{
+		  "M": 0.3333333333333333
+		},
+		{
+		  "M": 0.38095238095238093
+		},
+		{
+		  "P": 0.38095238095238093
+		},
+		{
+		  "P": 0.42857142857142855
+		},
+		{
+		  "M": 0.42857142857142855
+		},
+		{
+		  "M": 0.47619047619047616
+		},
+		{
+		  "C": 0.47619047619047616
+		},
+		{
+		  "C": 0.6190476190476191
+		},
+		{
+		  "P": 0.6190476190476191
+		},
+		{
+		  "P": 0.6666666666666667
+		},
+		{
+		  "C": 0.6666666666666667
+		},
+		{
+		  "C": 0.7142857142857144
+		},
+		{
+		  "P": 0.7142857142857144
+		},
+		{
+		  "P": 0.8095238095238096
+		},
+		{
+		  "M": 0.8095238095238096
+		},
+		{
+		  "M": 0.8571428571428572
+		},
+		{
+		  "P": 0.8571428571428572
+		},
+		{
+		  "P": 1
+		}
+	  ],
+	  "complexity_relative": [
+		{
+		  "S": 0
+		},
+		{
+		  "S": 0.3333333333333333
+		},
+		{
+		  "M": 0.3333333333333333
+		},
+		{
+		  "M": 0.38095238095238093
+		},
+		{
+		  "S": 0.38095238095238093
+		},
+		{
+		  "S": 0.6190476190476191
+		},
+		{
+		  "M": 0.6190476190476191
+		},
+		{
+		  "M": 0.7142857142857143
+		},
+		{
+		  "S": 0.7142857142857143
+		},
+		{
+		  "S": 0.8095238095238095
+		},
+		{
+		  "M": 0.8095238095238095
+		},
+		{
+		  "M": 0.8571428571428572
+		},
+		{
+		  "C": 0.8571428571428572
+		},
+		{
+		  "C": 1
+		}
+	  ],
+	  "type_relative": [
+		{
+		  "T": 0
+		},
+		{
+		  "T": 0.047619047619047616
+		},
+		{
+		  "V": 0.047619047619047616
+		},
+		{
+		  "V": 0.09523809523809523
+		},
+		{
+		  "T": 0.09523809523809523
+		},
+		{
+		  "T": 0.2857142857142857
+		},
+		{
+		  "A": 0.2857142857142857
+		},
+		{
+		  "A": 0.3333333333333333
+		},
+		{
+		  "V": 0.3333333333333333
+		},
+		{
+		  "V": 0.42857142857142855
+		},
+		{
+		  "T": 0.42857142857142855
+		},
+		{
+		  "T": 0.5238095238095237
+		},
+		{
+		  "V": 0.5238095238095237
+		},
+		{
+		  "V": 0.619047619047619
+		},
+		{
+		  "T": 0.619047619047619
+		},
+		{
+		  "T": 0.7142857142857142
+		},
+		{
+		  "A": 0.7142857142857142
+		},
+		{
+		  "A": 0.7619047619047619
+		},
+		{
+		  "V": 0.7619047619047619
+		},
+		{
+		  "V": 0.8095238095238095
+		},
+		{
+		  "T": 0.8095238095238095
+		},
+		{
+		  "T": 0.9047619047619048
+		},
+		{
+		  "V": 0.9047619047619048
+		},
+		{
+		  "V": 1
+		}
+	  ]
+	},
+	"media_times": {
+	  "min_audio": "00:00:10",
+	  "max_audio": "00:00:42",
+	  "avg_audio": "00:00:26",
+	  "min_video": "00:00:37",
+	  "max_video": "00:08:14",
+	  "avg_video": "00:03:34",
+	  "min_text": "00:01:19",
+	  "max_text": "00:06:57",
+	  "avg_text": "00:03:03"
+	},
+	"numb_sessions": 2,
+	"watched": [
+	  {
+		"id": 1,
+		"time": "00:03:11",
+		"title": "Climate Change Will Cost Us Even More Than We Think",
+		"copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		"type": "text",
+		"political": "progressive",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 5,
+		"time": "00:04:53",
+		"title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		"copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 10,
+		"time": "00:05:48",
+		"title": "NASA: Global Warming",
+		"copy": "Throughout its long history, Earth has warmed and cooled time and again. Climate has changed when the planet received more or less sunlight due to subtle shifts in its orbit, as the atmosphere or surface changed, or when the Sun’s energy varied. But in the past century, another force has started to influence Earth’s climate: humanity.",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 11,
+		"time": "00:02:45",
+		"title": "Did the Drop in COVID-Related Emissions Affect the Climate?",
+		"copy": "Global emissions dropped markedly in 2020, due in large part to lockdowns that slowed economic and social activity, but the climate likely won’t be noticeably affected.",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 6,
+		"time": "00:06:57",
+		"title": "Climate Change - by Chris Riedy",
+		"copy": "In the period since the Industrial Revolution, human emissions of greenhouse gases from fossil fuel combustion, deforestation and agricultural practices have led to global warming and climate change.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 13,
+		"time": "00:04:05",
+		"title": "Global warming is a problem, but so are climate doomsayers",
+		"copy": "OPINION. Bjorn Lomborg, a visiting professor at the Copenhagen Business School. Most people on the planet wake up each day thinking that things are getting worse. It is little wonder, given what they routinely read in the newspaper or see on television. But this gloomy mood is a problem, because it feeds into scare stories about how climate change will end in Armageddon.",
+		"type": "text",
+		"political": "conservative",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 18,
+		"time": "00:00:42",
+		"title": "Costing the Earth: How to Halve Emissions by 2030",
+		"copy": "Ahead of the crucial COP26 climate conference in November, experts chart the route to halving global GHG emissions by 2030.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 25,
+		"time": "00:08:14",
+		"title": "DON'T PANIC — Hans Rosling showing the facts about population",
+		"copy": "58 min lecture by hans rosling about the distribution of population and population growth",
+		"type": "video",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 32,
+		"time": "00:00:37",
+		"title": "The beautiful future of solar power | Marjan van Aubel",
+		"copy": "8 min (TED) talk on design possibilities for solar cells",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 41,
+		"time": "00:01:23",
+		"title": "The basics of Global Warming",
+		"copy": "The Sun serves as the primary energy source for Earth’s climate. Some of the incoming sunlight is reflected directly back into space, especially by bconservative surfaces such as ice and clouds, and the rest is absorbed by the surface and the atmosphere.",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 14,
+		"time": "00:02:13",
+		"title": "Don’t mess with Mother Earth. Climate change is a hoax | Letter to the editor",
+		"copy": "Rising sea levels? Well, it has not happened yet, but hey some scientists say it might or it will in the future. I personally doubt it and I believe all this doom and gloom about global warming or, when the climate does not fit the narrative, it is called climate change, is a big money making hoax.",
+		"type": "text",
+		"political": "conservative",
+		"belief": "opinion",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 43,
+		"time": "00:01:45",
+		"title": "Do 97% of scientists actually agree on climate change?",
+		"copy": "3 min (OAN) interview with climate change skeptics, arguing that not all scientists argee and that consensus may not be correct",
+		"type": "video",
+		"political": "conservative",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Medium"
+	  },
+	  {
+		"id": 45,
+		"time": "00:04:53",
+		"title": "Climate Change: What Do Scientists Say?",
+		"copy": "5 min (PragerU) video of a climate skeptic scientist giving his views on the debate of climate change",
+		"type": "video",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 53,
+		"time": "00:01:42",
+		"title": "Why clouds are the missing piece in the climate change puzzle",
+		"copy": "How much our world will warm this century depends on the actions we take in coming decades. In order to keep global temperature rise below 1.5°C and avoid dangerous levels of warming, governments need to know how much carbon they can emit, and over what timeframe.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 60,
+		"time": "00:01:19",
+		"title": "Why some detractors say Earth is not in crisis, and why that drives most climate scientists crazy",
+		"copy": "Utah author Bill Pekny wrote a book with 13 chapters describing climate change, full of charts, colorful graphics and “key takeaways” after each segment in which he impresses upon his readers why his research matters, and should offer comfort to those who believe the world is on the eve of destruction.",
+		"type": "text",
+		"political": "conservative",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Simple"
+	  },
+	  {
+		"id": 22,
+		"time": "00:00:10",
+		"title": "How to Save a Planet - Presenting: Science Vs",
+		"copy": "We know that carbon dioxide is rising and we know that it’s warming the world, but how did scientists figure that out in the first place? And what will all this warming mean for our future? Our friends at the Gimlet podcast, Science Vs., visited a couple climate scientists to find out.",
+		"type": "audio",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Simple",
+		"form": "Simple"
+	  },
+	  {
+		"id": 37,
+		"time": "00:02:52",
+		"title": "The New Face Of Climate Change — The Climate Migrant",
+		"copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		"type": "video",
+		"political": "progressive",
+		"belief": "belief",
+		"content": "Simple",
+		"form": "Complex"
+	  },
+	  {
+		"id": 55,
+		"time": "00:01:23",
+		"title": "Land Ecosystems Are Becoming Less Efficient at Absorbing Carbon Dioxide",
+		"copy": "Plants play a key role in mitigating climate change. The more carbon dioxide they absorb during photosynthesis, the less carbon dioxide remains trapped in the atmosphere, where it can cause temperatures to rise.",
+		"type": "text",
+		"political": "center",
+		"belief": "fact",
+		"content": "Medium",
+		"form": "Medium"
+	  },
+	  {
+		"id": 97,
+		"time": "00:02:50",
+		"title": "Green finance will help put the brakes on climate change, but Asian companies risk missing out",
+		"copy": "More money is flowing into green, sustainable finance. But Asian companies are behind the curve in terms of receiving it, according to a panel during the CNA Leadership summit. Better governance is needed.",
+		"type": "text",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Simple"
+	  },
+	  {
+		"id": 124,
+		"time": "00:03:32",
+		"title": "How could veganism change the world? | The Economist",
+		"copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Medium"
+	  },
+	  {
+		"id": 125,
+		"time": "00:01:52",
+		"title": "Why Meat is the Best Worst Thing in the World ",
+		"copy": "8 min animation on why meat is not an effective way to feed humans",
+		"type": "video",
+		"political": "progressive",
+		"belief": "fact",
+		"content": "Complex",
+		"form": "Simple"
+	  }
+	]
+  },
+  "sessions": [
+	{
+	  "id": 55,
+	  "userId": 22,
+	  "total_time": "60",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15",
+	  "paths": {
+		"resource": "1-5-10-11-6-13-18-25-32-41-14-43-45-53-60-",
+		"political": "P-P-M-M-P-C-P-M-P-M-C-C-C-P-C-",
+		"complexity": "S-S-S-S-S-S-S-M-S-S-S-S-S-M-M-",
+		"type": "T-V-T-T-T-T-A-V-V-T-T-V-V-T-T-"
+	  },
+	  "stats": {
+		"numb_of_sources": 15,
+		"political_progressive": 6,
+		"political_conservative": 5,
+		"political_center": 4,
+		"form_simple": 7,
+		"form_medium": 7,
+		"form_complex": 1,
+		"content_simple": 12,
+		"content_medium": 3,
+		"content_complex": 0,
+		"type_text": 9,
+		"type_video": 5,
+		"type_audio": 1,
+		"total_time": "00:50:27",
+		"average_time": "00:03:21"
+	  },
+	  "watched": [
+		{
+		  "id": 1,
+		  "time": "00:01:52",
+		  "title": "Climate Change Will Cost Us Even More Than We Think",
+		  "copy": "Economists greatly underestimate the price tag on harsher weather and higher seas. Why is that?",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 5,
+		  "time": "00:01:52",
+		  "title": "We need IMMEDIATE action to stop extinction crisis, David Attenborough - BBC",
+		  "copy": "6 min (BBC) video on why we need to change our lifestyles to prevent mass animal extinction",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 10,
+		  "time": "00:01:52",
+		  "title": "NASA: Global Warming",
+		  "copy": "Throughout its long history, Earth has warmed and cooled time and again. Climate has changed when the planet received more or less sunlight due to subtle shifts in its orbit, as the atmosphere or surface changed, or when the Sun’s energy varied. But in the past century, another force has started to influence Earth’s climate: humanity.",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 11,
+		  "time": "00:01:52",
+		  "title": "Did the Drop in COVID-Related Emissions Affect the Climate?",
+		  "copy": "Global emissions dropped markedly in 2020, due in large part to lockdowns that slowed economic and social activity, but the climate likely won’t be noticeably affected.",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 6,
+		  "time": "00:01:52",
+		  "title": "Climate Change - by Chris Riedy",
+		  "copy": "In the period since the Industrial Revolution, human emissions of greenhouse gases from fossil fuel combustion, deforestation and agricultural practices have led to global warming and climate change.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 13,
+		  "time": "00:01:52",
+		  "title": "Global warming is a problem, but so are climate doomsayers",
+		  "copy": "OPINION. Bjorn Lomborg, a visiting professor at the Copenhagen Business School. Most people on the planet wake up each day thinking that things are getting worse. It is little wonder, given what they routinely read in the newspaper or see on television. But this gloomy mood is a problem, because it feeds into scare stories about how climate change will end in Armageddon.",
+		  "type": "text",
+		  "political": "conservative",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 18,
+		  "time": "00:01:52",
+		  "title": "Costing the Earth: How to Halve Emissions by 2030",
+		  "copy": "Ahead of the crucial COP26 climate conference in November, experts chart the route to halving global GHG emissions by 2030.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 25,
+		  "time": "00:01:52",
+		  "title": "DON'T PANIC — Hans Rosling showing the facts about population",
+		  "copy": "58 min lecture by hans rosling about the distribution of population and population growth",
+		  "type": "video",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 32,
+		  "time": "00:01:52",
+		  "title": "The beautiful future of solar power | Marjan van Aubel",
+		  "copy": "8 min (TED) talk on design possibilities for solar cells",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 41,
+		  "time": "00:01:52",
+		  "title": "The basics of Global Warming",
+		  "copy": "The Sun serves as the primary energy source for Earth’s climate. Some of the incoming sunlight is reflected directly back into space, especially by bconservative surfaces such as ice and clouds, and the rest is absorbed by the surface and the atmosphere.",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 14,
+		  "time": "00:01:52",
+		  "title": "Don’t mess with Mother Earth. Climate change is a hoax | Letter to the editor",
+		  "copy": "Rising sea levels? Well, it has not happened yet, but hey some scientists say it might or it will in the future. I personally doubt it and I believe all this doom and gloom about global warming or, when the climate does not fit the narrative, it is called climate change, is a big money making hoax.",
+		  "type": "text",
+		  "political": "conservative",
+		  "belief": "opinion",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 43,
+		  "time": "00:01:52",
+		  "title": "Do 97% of scientists actually agree on climate change?",
+		  "copy": "3 min (OAN) interview with climate change skeptics, arguing that not all scientists argee and that consensus may not be correct",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Medium"
+		},
+		{
+		  "id": 45,
+		  "time": "00:01:52",
+		  "title": "Climate Change: What Do Scientists Say?",
+		  "copy": "5 min (PragerU) video of a climate skeptic scientist giving his views on the debate of climate change",
+		  "type": "video",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 53,
+		  "time": "00:01:52",
+		  "title": "Why clouds are the missing piece in the climate change puzzle",
+		  "copy": "How much our world will warm this century depends on the actions we take in coming decades. In order to keep global temperature rise below 1.5°C and avoid dangerous levels of warming, governments need to know how much carbon they can emit, and over what timeframe.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 60,
+		  "time": "00:01:52",
+		  "title": "Why some detractors say Earth is not in crisis, and why that drives most climate scientists crazy",
+		  "copy": "Utah author Bill Pekny wrote a book with 13 chapters describing climate change, full of charts, colorful graphics and “key takeaways” after each segment in which he impresses upon his readers why his research matters, and should offer comfort to those who believe the world is on the eve of destruction.",
+		  "type": "text",
+		  "political": "conservative",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Simple"
+		}
+	  ]
+	},
+	{
+	  "id": 58,
+	  "userId": 22,
+	  "total_time": "16",
+	  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15",
+	  "paths": {
+		"resource": "22-37-55-97-124-125-",
+		"political": "P-P-M-P-P-P-",
+		"complexity": "S-S-M-C-C-C-",
+		"type": "A-V-T-T-V-V-"
+	  },
+	  "stats": {
+		"numb_of_sources": 6,
+		"political_progressive": 5,
+		"political_conservative": 0,
+		"political_center": 1,
+		"form_simple": 3,
+		"form_medium": 2,
+		"form_complex": 1,
+		"content_simple": 2,
+		"content_medium": 1,
+		"content_complex": 3,
+		"type_text": 2,
+		"type_video": 3,
+		"type_audio": 1,
+		"total_time": "00:12:39",
+		"average_time": "00:02:06"
+	  },
+	  "watched": [
+		{
+		  "id": 22,
+		  "time": "00:01:52",
+		  "title": "How to Save a Planet - Presenting: Science Vs",
+		  "copy": "We know that carbon dioxide is rising and we know that it’s warming the world, but how did scientists figure that out in the first place? And what will all this warming mean for our future? Our friends at the Gimlet podcast, Science Vs., visited a couple climate scientists to find out.",
+		  "type": "audio",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Simple",
+		  "form": "Simple"
+		},
+		{
+		  "id": 37,
+		  "time": "00:01:52",
+		  "title": "The New Face Of Climate Change — The Climate Migrant",
+		  "copy": "4 min (VICE) report on potential climate refugees/migrants in mexico",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "belief",
+		  "content": "Simple",
+		  "form": "Complex"
+		},
+		{
+		  "id": 55,
+		  "time": "00:01:52",
+		  "title": "Land Ecosystems Are Becoming Less Efficient at Absorbing Carbon Dioxide",
+		  "copy": "Plants play a key role in mitigating climate change. The more carbon dioxide they absorb during photosynthesis, the less carbon dioxide remains trapped in the atmosphere, where it can cause temperatures to rise.",
+		  "type": "text",
+		  "political": "center",
+		  "belief": "fact",
+		  "content": "Medium",
+		  "form": "Medium"
+		},
+		{
+		  "id": 97,
+		  "time": "00:01:52",
+		  "title": "Green finance will help put the brakes on climate change, but Asian companies risk missing out",
+		  "copy": "More money is flowing into green, sustainable finance. But Asian companies are behind the curve in terms of receiving it, according to a panel during the CNA Leadership summit. Better governance is needed.",
+		  "type": "text",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Simple"
+		},
+		{
+		  "id": 124,
+		  "time": "00:01:52",
+		  "title": "How could veganism change the world? | The Economist",
+		  "copy": "6 min (Economist) video essay on the effects of a plant based diet on the environment",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Medium"
+		},
+		{
+		  "id": 125,
+		  "time": "00:01:52",
+		  "title": "Why Meat is the Best Worst Thing in the World ",
+		  "copy": "8 min animation on why meat is not an effective way to feed humans",
+		  "type": "video",
+		  "political": "progressive",
+		  "belief": "fact",
+		  "content": "Complex",
+		  "form": "Simple"
+		}
+	  ]
+	}
+  ]
+}
+{"mode":"full","isActive":false}
